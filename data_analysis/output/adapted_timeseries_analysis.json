@@ -1,0 +1,1722 @@
+{
+  "analysis_timestamp": "2025-08-20T10:02:00.622698",
+  "total_tokens": 26,
+  "results": {
+    "9pag2RpRugnhiJMdzwRSGP2xTaLr1szCTh6UsVm5sCM9": {
+      "status": "analyzed",
+      "address": "9pag2RpRugnhiJMdzwRSGP2xTaLr1szCTh6UsVm5sCM9",
+      "token_name": "deadly weapon",
+      "current_metrics": {
+        "fdv": 300337,
+        "market_cap": 300337,
+        "price": 0.0003003
+      },
+      "start_metrics": {
+        "start_fdv": 41727,
+        "start_market_cap": 41727
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 619.7665779950631,
+        "market_cap_change_pct": 619.7665779950631
+      },
+      "pattern": "moon_shot",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 4130,
+          "sells": 4183,
+          "total_transactions": 8313,
+          "buy_sell_ratio": 0.9873296677026058,
+          "buy_percentage": 49.68122218212439
+        },
+        "h6": {
+          "buys": 4130,
+          "sells": 4183,
+          "total_transactions": 8313,
+          "buy_sell_ratio": 0.9873296677026058,
+          "buy_percentage": 49.68122218212439
+        },
+        "m5": {
+          "buys": 506,
+          "sells": 371,
+          "total_transactions": 877,
+          "buy_sell_ratio": 1.3638814016172507,
+          "buy_percentage": 57.69669327251995
+        },
+        "h24": {
+          "buys": 4130,
+          "sells": 4183,
+          "total_transactions": 8313,
+          "buy_sell_ratio": 0.9873296677026058,
+          "buy_percentage": 49.68122218212439
+        },
+        "overall": {
+          "total_buys": 12896,
+          "total_sells": 12920,
+          "total_transactions": 25816,
+          "buy_sell_ratio": 0.9981424148606811,
+          "buy_percentage": 49.953517198636504
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "C5YQT2gN6btqiTa5rt62xs79jAKjuzfkmpFNDXbrcB8g": {
+      "status": "analyzed",
+      "address": "C5YQT2gN6btqiTa5rt62xs79jAKjuzfkmpFNDXbrcB8g",
+      "token_name": "Albert",
+      "current_metrics": {
+        "fdv": 69588,
+        "market_cap": 69588,
+        "price": 6.958e-05
+      },
+      "start_metrics": {
+        "start_fdv": 51061.14,
+        "start_market_cap": 51061.14
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 36.283678742777774,
+        "market_cap_change_pct": 36.283678742777774
+      },
+      "pattern": "moderate_rise",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 163,
+          "sells": 167,
+          "total_transactions": 330,
+          "buy_sell_ratio": 0.9760479041916168,
+          "buy_percentage": 49.3939393939394
+        },
+        "h6": {
+          "buys": 163,
+          "sells": 167,
+          "total_transactions": 330,
+          "buy_sell_ratio": 0.9760479041916168,
+          "buy_percentage": 49.3939393939394
+        },
+        "m5": {
+          "buys": 163,
+          "sells": 167,
+          "total_transactions": 330,
+          "buy_sell_ratio": 0.9760479041916168,
+          "buy_percentage": 49.3939393939394
+        },
+        "h24": {
+          "buys": 163,
+          "sells": 167,
+          "total_transactions": 330,
+          "buy_sell_ratio": 0.9760479041916168,
+          "buy_percentage": 49.3939393939394
+        },
+        "overall": {
+          "total_buys": 652,
+          "total_sells": 668,
+          "total_transactions": 1320,
+          "buy_sell_ratio": 0.9760479041916168,
+          "buy_percentage": 49.3939393939394
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "J3zm9gQMM2DoFpPu5DktSSj7p5J8sAQtbsNjvkakdHJk": {
+      "status": "analyzed",
+      "address": "J3zm9gQMM2DoFpPu5DktSSj7p5J8sAQtbsNjvkakdHJk",
+      "token_name": "Superman Kiss",
+      "current_metrics": {
+        "fdv": 62997,
+        "market_cap": 62997,
+        "price": 6.299e-05
+      },
+      "start_metrics": {
+        "start_fdv": 59639.25,
+        "start_market_cap": 59639.25
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 5.630100982155208,
+        "market_cap_change_pct": 5.630100982155208
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 56,
+          "sells": 51,
+          "total_transactions": 107,
+          "buy_sell_ratio": 1.0980392156862746,
+          "buy_percentage": 52.336448598130836
+        },
+        "h6": {
+          "buys": 56,
+          "sells": 51,
+          "total_transactions": 107,
+          "buy_sell_ratio": 1.0980392156862746,
+          "buy_percentage": 52.336448598130836
+        },
+        "m5": {
+          "buys": 56,
+          "sells": 51,
+          "total_transactions": 107,
+          "buy_sell_ratio": 1.0980392156862746,
+          "buy_percentage": 52.336448598130836
+        },
+        "h24": {
+          "buys": 56,
+          "sells": 51,
+          "total_transactions": 107,
+          "buy_sell_ratio": 1.0980392156862746,
+          "buy_percentage": 52.336448598130836
+        },
+        "overall": {
+          "total_buys": 224,
+          "total_sells": 204,
+          "total_transactions": 428,
+          "buy_sell_ratio": 1.0980392156862746,
+          "buy_percentage": 52.336448598130836
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "FXZA1JMqvEVhsXguAkhD3emqmoQhx5TYbAbXqqDaNSod": {
+      "status": "analyzed",
+      "address": "FXZA1JMqvEVhsXguAkhD3emqmoQhx5TYbAbXqqDaNSod",
+      "token_name": "SMART INU",
+      "current_metrics": {
+        "fdv": 95010,
+        "market_cap": 95010,
+        "price": 9.5e-05
+      },
+      "start_metrics": {
+        "start_fdv": 62713.87,
+        "start_market_cap": 62713.87
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 51.49758737580697,
+        "market_cap_change_pct": 51.49758737580697
+      },
+      "pattern": "strong_rise",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 47,
+          "sells": 17,
+          "total_transactions": 64,
+          "buy_sell_ratio": 2.764705882352941,
+          "buy_percentage": 73.4375
+        },
+        "h6": {
+          "buys": 47,
+          "sells": 17,
+          "total_transactions": 64,
+          "buy_sell_ratio": 2.764705882352941,
+          "buy_percentage": 73.4375
+        },
+        "m5": {
+          "buys": 47,
+          "sells": 17,
+          "total_transactions": 64,
+          "buy_sell_ratio": 2.764705882352941,
+          "buy_percentage": 73.4375
+        },
+        "h24": {
+          "buys": 47,
+          "sells": 17,
+          "total_transactions": 64,
+          "buy_sell_ratio": 2.764705882352941,
+          "buy_percentage": 73.4375
+        },
+        "overall": {
+          "total_buys": 188,
+          "total_sells": 68,
+          "total_transactions": 256,
+          "buy_sell_ratio": 2.764705882352941,
+          "buy_percentage": 73.4375
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "9Q7CEYmuZVMEmCQ7hdFnw61E5F3wG8Mt61UT81EUuFAR": {
+      "status": "analyzed",
+      "address": "9Q7CEYmuZVMEmCQ7hdFnw61E5F3wG8Mt61UT81EUuFAR",
+      "token_name": "LIF3z16",
+      "current_metrics": {
+        "fdv": 98459,
+        "market_cap": 98459,
+        "price": 9.845e-05
+      },
+      "start_metrics": {
+        "start_fdv": 69545.61,
+        "start_market_cap": 69545.61
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 41.57471621860819,
+        "market_cap_change_pct": 41.57471621860819
+      },
+      "pattern": "moderate_rise",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 81,
+          "sells": 24,
+          "total_transactions": 105,
+          "buy_sell_ratio": 3.375,
+          "buy_percentage": 77.14285714285715
+        },
+        "h6": {
+          "buys": 81,
+          "sells": 24,
+          "total_transactions": 105,
+          "buy_sell_ratio": 3.375,
+          "buy_percentage": 77.14285714285715
+        },
+        "m5": {
+          "buys": 81,
+          "sells": 24,
+          "total_transactions": 105,
+          "buy_sell_ratio": 3.375,
+          "buy_percentage": 77.14285714285715
+        },
+        "h24": {
+          "buys": 81,
+          "sells": 24,
+          "total_transactions": 105,
+          "buy_sell_ratio": 3.375,
+          "buy_percentage": 77.14285714285715
+        },
+        "overall": {
+          "total_buys": 324,
+          "total_sells": 96,
+          "total_transactions": 420,
+          "buy_sell_ratio": 3.375,
+          "buy_percentage": 77.14285714285715
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 2,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "4we1zMGC8cBpd1pqevXuqUQEpwTQsjv8Kr6kbmuhCjeU": {
+      "status": "analyzed",
+      "address": "4we1zMGC8cBpd1pqevXuqUQEpwTQsjv8Kr6kbmuhCjeU",
+      "token_name": "#FREESCHLEP",
+      "current_metrics": {
+        "fdv": 80600,
+        "market_cap": 80600,
+        "price": 8.059e-05
+      },
+      "start_metrics": {
+        "start_fdv": 64747.54,
+        "start_market_cap": 64747.54
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 24.483493890269806,
+        "market_cap_change_pct": 24.483493890269806
+      },
+      "pattern": "moderate_rise",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 2,
+          "sells": 0,
+          "total_transactions": 2,
+          "buy_sell_ratio": 2.0,
+          "buy_percentage": 100.0
+        },
+        "h6": {
+          "buys": 2,
+          "sells": 0,
+          "total_transactions": 2,
+          "buy_sell_ratio": 2.0,
+          "buy_percentage": 100.0
+        },
+        "m5": {
+          "buys": 2,
+          "sells": 0,
+          "total_transactions": 2,
+          "buy_sell_ratio": 2.0,
+          "buy_percentage": 100.0
+        },
+        "h24": {
+          "buys": 2,
+          "sells": 0,
+          "total_transactions": 2,
+          "buy_sell_ratio": 2.0,
+          "buy_percentage": 100.0
+        },
+        "overall": {
+          "total_buys": 8,
+          "total_sells": 0,
+          "total_transactions": 8,
+          "buy_sell_ratio": 8.0,
+          "buy_percentage": 100.0
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 30,
+        "transaction_risk": 3,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "DMeLPk4LsnFw13CLTC1rUVe4bzGBFfi7HaHRHQfZDJd4": {
+      "status": "analyzed",
+      "address": "DMeLPk4LsnFw13CLTC1rUVe4bzGBFfi7HaHRHQfZDJd4",
+      "token_name": "lifewithada",
+      "current_metrics": {
+        "fdv": 9409,
+        "market_cap": 9409,
+        "price": 9.408e-06
+      },
+      "start_metrics": {
+        "start_fdv": 44269.41,
+        "start_market_cap": 44269.41
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -78.74604608464401,
+        "market_cap_change_pct": -78.74604608464401
+      },
+      "pattern": "significant_drop",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 215,
+          "sells": 193,
+          "total_transactions": 408,
+          "buy_sell_ratio": 1.1139896373056994,
+          "buy_percentage": 52.69607843137255
+        },
+        "h6": {
+          "buys": 5120,
+          "sells": 4103,
+          "total_transactions": 9223,
+          "buy_sell_ratio": 1.2478674140872532,
+          "buy_percentage": 55.513390436951106
+        },
+        "m5": {
+          "buys": 29,
+          "sells": 13,
+          "total_transactions": 42,
+          "buy_sell_ratio": 2.230769230769231,
+          "buy_percentage": 69.04761904761905
+        },
+        "h24": {
+          "buys": 5120,
+          "sells": 4103,
+          "total_transactions": 9223,
+          "buy_sell_ratio": 1.2478674140872532,
+          "buy_percentage": 55.513390436951106
+        },
+        "overall": {
+          "total_buys": 10484,
+          "total_sells": 8412,
+          "total_transactions": 18896,
+          "buy_sell_ratio": 1.2463147883975274,
+          "buy_percentage": 55.48264182895851
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 2,
+        "momentum_level": "medium"
+      }
+    },
+    "69GqnYA7Gk1KdusKrAijdJqbzfRaRSNeRSE8kSB7hKdT": {
+      "status": "analyzed",
+      "address": "69GqnYA7Gk1KdusKrAijdJqbzfRaRSNeRSE8kSB7hKdT",
+      "token_name": "XYZ",
+      "current_metrics": {
+        "fdv": 555090,
+        "market_cap": 555090,
+        "price": 0.000555
+      },
+      "start_metrics": {
+        "start_fdv": null,
+        "start_market_cap": null
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 0,
+        "market_cap_change_pct": 0
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 2397,
+          "sells": 2326,
+          "total_transactions": 4723,
+          "buy_sell_ratio": 1.030524505588994,
+          "buy_percentage": 50.75164090620369
+        },
+        "h6": {
+          "buys": 10483,
+          "sells": 9692,
+          "total_transactions": 20175,
+          "buy_sell_ratio": 1.0816137020222865,
+          "buy_percentage": 51.96034696406444
+        },
+        "m5": {
+          "buys": 177,
+          "sells": 160,
+          "total_transactions": 337,
+          "buy_sell_ratio": 1.10625,
+          "buy_percentage": 52.52225519287834
+        },
+        "h24": {
+          "buys": 10483,
+          "sells": 9692,
+          "total_transactions": 20175,
+          "buy_sell_ratio": 1.0816137020222865,
+          "buy_percentage": 51.96034696406444
+        },
+        "overall": {
+          "total_buys": 23540,
+          "total_sells": 21870,
+          "total_transactions": 45410,
+          "buy_sell_ratio": 1.0763603109282123,
+          "buy_percentage": 51.838802025985466
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 2,
+        "momentum_level": "medium"
+      }
+    },
+    "8eEsLm5zoPYGZPZKiZtWXvMrezZGf8koZH6NjUSozgSo": {
+      "status": "analyzed",
+      "address": "8eEsLm5zoPYGZPZKiZtWXvMrezZGf8koZH6NjUSozgSo",
+      "token_name": "GREAT GENES",
+      "current_metrics": {
+        "fdv": 978316,
+        "market_cap": 978316,
+        "price": 0.0009783
+      },
+      "start_metrics": {
+        "start_fdv": null,
+        "start_market_cap": null
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 0,
+        "market_cap_change_pct": 0
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 27,
+          "sells": 5,
+          "total_transactions": 32,
+          "buy_sell_ratio": 5.4,
+          "buy_percentage": 84.375
+        },
+        "h6": {
+          "buys": 27,
+          "sells": 5,
+          "total_transactions": 32,
+          "buy_sell_ratio": 5.4,
+          "buy_percentage": 84.375
+        },
+        "m5": {
+          "buys": 27,
+          "sells": 5,
+          "total_transactions": 32,
+          "buy_sell_ratio": 5.4,
+          "buy_percentage": 84.375
+        },
+        "h24": {
+          "buys": 27,
+          "sells": 5,
+          "total_transactions": 32,
+          "buy_sell_ratio": 5.4,
+          "buy_percentage": 84.375
+        },
+        "overall": {
+          "total_buys": 108,
+          "total_sells": 20,
+          "total_transactions": 128,
+          "buy_sell_ratio": 5.4,
+          "buy_percentage": 84.375
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 2,
+        "total_risk_score": 3,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "6pzArBgcPxgMHV9GQECZZJDUQwTfeHFn4GM1KC2FkXDg": {
+      "status": "analyzed",
+      "address": "6pzArBgcPxgMHV9GQECZZJDUQwTfeHFn4GM1KC2FkXDg",
+      "token_name": "Toly The Takin",
+      "current_metrics": {
+        "fdv": 5877,
+        "market_cap": 5877,
+        "price": 5.88e-06
+      },
+      "start_metrics": {
+        "start_fdv": null,
+        "start_market_cap": null
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 0,
+        "market_cap_change_pct": 0
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 92,
+          "sells": 67,
+          "total_transactions": 159,
+          "buy_sell_ratio": 1.373134328358209,
+          "buy_percentage": 57.861635220125784
+        },
+        "h6": {
+          "buys": 108,
+          "sells": 84,
+          "total_transactions": 192,
+          "buy_sell_ratio": 1.2857142857142858,
+          "buy_percentage": 56.25
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 1,
+          "total_transactions": 1,
+          "buy_sell_ratio": 0.0,
+          "buy_percentage": 0.0
+        },
+        "h24": {
+          "buys": 1726,
+          "sells": 1637,
+          "total_transactions": 3363,
+          "buy_sell_ratio": 1.0543677458766036,
+          "buy_percentage": 51.323223312518586
+        },
+        "overall": {
+          "total_buys": 1926,
+          "total_sells": 1789,
+          "total_transactions": 3715,
+          "buy_sell_ratio": 1.0765790944661822,
+          "buy_percentage": 51.843876177658146
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 3,
+        "momentum_level": "high"
+      }
+    },
+    "3S6zesTsL5BMTh3oDFoomiGaMdMnfPfgp11PQCkfgUUX": {
+      "status": "analyzed",
+      "address": "3S6zesTsL5BMTh3oDFoomiGaMdMnfPfgp11PQCkfgUUX",
+      "token_name": "BonkPump",
+      "current_metrics": {
+        "fdv": 26500,
+        "market_cap": 26500,
+        "price": 2.649e-05
+      },
+      "start_metrics": {
+        "start_fdv": 60699.71,
+        "start_market_cap": 60699.71
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -56.34246028523036,
+        "market_cap_change_pct": -56.34246028523036
+      },
+      "pattern": "significant_drop",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 7279,
+          "sells": 5023,
+          "total_transactions": 12302,
+          "buy_sell_ratio": 1.4491339836750945,
+          "buy_percentage": 59.169240773857915
+        },
+        "h6": {
+          "buys": 7648,
+          "sells": 5300,
+          "total_transactions": 12948,
+          "buy_sell_ratio": 1.4430188679245284,
+          "buy_percentage": 59.06703738029039
+        },
+        "m5": {
+          "buys": 355,
+          "sells": 387,
+          "total_transactions": 742,
+          "buy_sell_ratio": 0.917312661498708,
+          "buy_percentage": 47.84366576819407
+        },
+        "h24": {
+          "buys": 7648,
+          "sells": 5300,
+          "total_transactions": 12948,
+          "buy_sell_ratio": 1.4430188679245284,
+          "buy_percentage": 59.06703738029039
+        },
+        "overall": {
+          "total_buys": 22930,
+          "total_sells": 16010,
+          "total_transactions": 38940,
+          "buy_sell_ratio": 1.4322298563397877,
+          "buy_percentage": 58.88546481766821
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 3,
+        "momentum_level": "high"
+      }
+    },
+    "52JQSf8oY5YNxArEwGfi93rqBXMP9FvxFLkFZpZXj3LA": {
+      "status": "analyzed",
+      "address": "52JQSf8oY5YNxArEwGfi93rqBXMP9FvxFLkFZpZXj3LA",
+      "token_name": "catpennies",
+      "current_metrics": {
+        "fdv": 3872,
+        "market_cap": 3872,
+        "price": 3.872e-06
+      },
+      "start_metrics": {
+        "start_fdv": 61572.52,
+        "start_market_cap": 61572.52
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -93.71148038118304,
+        "market_cap_change_pct": -93.71148038118304
+      },
+      "pattern": "died",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 1,
+          "sells": 1,
+          "total_transactions": 2,
+          "buy_sell_ratio": 1.0,
+          "buy_percentage": 50.0
+        },
+        "h6": {
+          "buys": 5,
+          "sells": 6,
+          "total_transactions": 11,
+          "buy_sell_ratio": 0.8333333333333334,
+          "buy_percentage": 45.45454545454545
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "total_transactions": 0,
+          "buy_sell_ratio": 0.0,
+          "buy_percentage": 0.0
+        },
+        "h24": {
+          "buys": 545,
+          "sells": 619,
+          "total_transactions": 1164,
+          "buy_sell_ratio": 0.8804523424878837,
+          "buy_percentage": 46.8213058419244
+        },
+        "overall": {
+          "total_buys": 551,
+          "total_sells": 626,
+          "total_transactions": 1177,
+          "buy_sell_ratio": 0.8801916932907349,
+          "buy_percentage": 46.813933729821585
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 3,
+        "momentum_level": "high"
+      }
+    },
+    "wUyvUbYmg6GKwDy4vyfdxUfozcSUzp7TpUQBLrtNK9g": {
+      "status": "analyzed",
+      "address": "wUyvUbYmg6GKwDy4vyfdxUfozcSUzp7TpUQBLrtNK9g",
+      "token_name": "a big runner",
+      "current_metrics": {
+        "fdv": 52130,
+        "market_cap": 52130,
+        "price": 5.212e-05
+      },
+      "start_metrics": {
+        "start_fdv": 69695.51,
+        "start_market_cap": 69695.51
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -25.203216103878134,
+        "market_cap_change_pct": -25.203216103878134
+      },
+      "pattern": "moderate_drop",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 1642,
+          "sells": 1261,
+          "total_transactions": 2903,
+          "buy_sell_ratio": 1.302141157811261,
+          "buy_percentage": 56.56217705821563
+        },
+        "h6": {
+          "buys": 1642,
+          "sells": 1261,
+          "total_transactions": 2903,
+          "buy_sell_ratio": 1.302141157811261,
+          "buy_percentage": 56.56217705821563
+        },
+        "m5": {
+          "buys": 272,
+          "sells": 226,
+          "total_transactions": 498,
+          "buy_sell_ratio": 1.2035398230088497,
+          "buy_percentage": 54.61847389558233
+        },
+        "h24": {
+          "buys": 1642,
+          "sells": 1261,
+          "total_transactions": 2903,
+          "buy_sell_ratio": 1.302141157811261,
+          "buy_percentage": 56.56217705821563
+        },
+        "overall": {
+          "total_buys": 5198,
+          "total_sells": 4009,
+          "total_transactions": 9207,
+          "buy_sell_ratio": 1.2965826889498628,
+          "buy_percentage": 56.45704355381774
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "776C3ixZcKzXrSw2W6HevVXrWk9DXeo4NAMi333mzcDP": {
+      "status": "analyzed",
+      "address": "776C3ixZcKzXrSw2W6HevVXrWk9DXeo4NAMi333mzcDP",
+      "token_name": "ract",
+      "current_metrics": {
+        "fdv": 5461,
+        "market_cap": 5461,
+        "price": 5.461e-06
+      },
+      "start_metrics": {
+        "start_fdv": 35750.05,
+        "start_market_cap": 35750.05
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -84.72449688881554,
+        "market_cap_change_pct": -84.72449688881554
+      },
+      "pattern": "died",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 848,
+          "sells": 917,
+          "total_transactions": 1765,
+          "buy_sell_ratio": 0.9247546346782988,
+          "buy_percentage": 48.04532577903683
+        },
+        "h6": {
+          "buys": 848,
+          "sells": 917,
+          "total_transactions": 1765,
+          "buy_sell_ratio": 0.9247546346782988,
+          "buy_percentage": 48.04532577903683
+        },
+        "m5": {
+          "buys": 5,
+          "sells": 31,
+          "total_transactions": 36,
+          "buy_sell_ratio": 0.16129032258064516,
+          "buy_percentage": 13.88888888888889
+        },
+        "h24": {
+          "buys": 848,
+          "sells": 917,
+          "total_transactions": 1765,
+          "buy_sell_ratio": 0.9247546346782988,
+          "buy_percentage": 48.04532577903683
+        },
+        "overall": {
+          "total_buys": 2549,
+          "total_sells": 2782,
+          "total_transactions": 5331,
+          "buy_sell_ratio": 0.9162473040977714,
+          "buy_percentage": 47.814668917651474
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "4rc15XmLxRC2Cw4LdaAcDvttzfJvXzJQruNnWHper72T": {
+      "status": "analyzed",
+      "address": "4rc15XmLxRC2Cw4LdaAcDvttzfJvXzJQruNnWHper72T",
+      "token_name": "Polarys Land",
+      "current_metrics": {
+        "fdv": 3782,
+        "market_cap": 3782,
+        "price": 3.782e-06
+      },
+      "start_metrics": {
+        "start_fdv": null,
+        "start_market_cap": null
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 0,
+        "market_cap_change_pct": 0
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 110,
+          "sells": 148,
+          "total_transactions": 258,
+          "buy_sell_ratio": 0.7432432432432432,
+          "buy_percentage": 42.63565891472868
+        },
+        "h6": {
+          "buys": 110,
+          "sells": 148,
+          "total_transactions": 258,
+          "buy_sell_ratio": 0.7432432432432432,
+          "buy_percentage": 42.63565891472868
+        },
+        "m5": {
+          "buys": 110,
+          "sells": 148,
+          "total_transactions": 258,
+          "buy_sell_ratio": 0.7432432432432432,
+          "buy_percentage": 42.63565891472868
+        },
+        "h24": {
+          "buys": 110,
+          "sells": 148,
+          "total_transactions": 258,
+          "buy_sell_ratio": 0.7432432432432432,
+          "buy_percentage": 42.63565891472868
+        },
+        "overall": {
+          "total_buys": 440,
+          "total_sells": 592,
+          "total_transactions": 1032,
+          "buy_sell_ratio": 0.7432432432432432,
+          "buy_percentage": 42.63565891472868
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "CZkme421Y1pa2GPLkGFCXNxRCACcn9RM27kMMPKUWac5": {
+      "status": "analyzed",
+      "address": "CZkme421Y1pa2GPLkGFCXNxRCACcn9RM27kMMPKUWac5",
+      "token_name": "Chin",
+      "current_metrics": {
+        "fdv": 28951,
+        "market_cap": 28951,
+        "price": 2.895e-05
+      },
+      "start_metrics": {
+        "start_fdv": 64792.52,
+        "start_market_cap": 64792.52
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -55.317373054790885,
+        "market_cap_change_pct": -55.317373054790885
+      },
+      "pattern": "significant_drop",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 54,
+          "sells": 53,
+          "total_transactions": 107,
+          "buy_sell_ratio": 1.0188679245283019,
+          "buy_percentage": 50.467289719626166
+        },
+        "h6": {
+          "buys": 248,
+          "sells": 229,
+          "total_transactions": 477,
+          "buy_sell_ratio": 1.0829694323144106,
+          "buy_percentage": 51.99161425576519
+        },
+        "m5": {
+          "buys": 1,
+          "sells": 4,
+          "total_transactions": 5,
+          "buy_sell_ratio": 0.25,
+          "buy_percentage": 20.0
+        },
+        "h24": {
+          "buys": 10871,
+          "sells": 8961,
+          "total_transactions": 19832,
+          "buy_sell_ratio": 1.2131458542573375,
+          "buy_percentage": 54.81544977813635
+        },
+        "overall": {
+          "total_buys": 11174,
+          "total_sells": 9247,
+          "total_transactions": 20421,
+          "buy_sell_ratio": 1.2083919108900183,
+          "buy_percentage": 54.718182263356354
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 2,
+        "momentum_level": "medium"
+      }
+    },
+    "9Hdk7czk3khcSWcFsSsJZLX7Ydzv4P7LhTVKH3PqNiYW": {
+      "status": "analyzed",
+      "address": "9Hdk7czk3khcSWcFsSsJZLX7Ydzv4P7LhTVKH3PqNiYW",
+      "token_name": "Cabal",
+      "current_metrics": {
+        "fdv": 11503,
+        "market_cap": 11503,
+        "price": 1.155e-05
+      },
+      "start_metrics": {
+        "start_fdv": 67797.4,
+        "start_market_cap": 67797.4
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -83.03327266237348,
+        "market_cap_change_pct": -83.03327266237348
+      },
+      "pattern": "died",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 173,
+          "sells": 178,
+          "total_transactions": 351,
+          "buy_sell_ratio": 0.9719101123595506,
+          "buy_percentage": 49.287749287749286
+        },
+        "h6": {
+          "buys": 4337,
+          "sells": 3363,
+          "total_transactions": 7700,
+          "buy_sell_ratio": 1.2896223609872137,
+          "buy_percentage": 56.32467532467532
+        },
+        "m5": {
+          "buys": 2,
+          "sells": 4,
+          "total_transactions": 6,
+          "buy_sell_ratio": 0.5,
+          "buy_percentage": 33.33333333333333
+        },
+        "h24": {
+          "buys": 4337,
+          "sells": 3363,
+          "total_transactions": 7700,
+          "buy_sell_ratio": 1.2896223609872137,
+          "buy_percentage": 56.32467532467532
+        },
+        "overall": {
+          "total_buys": 8849,
+          "total_sells": 6908,
+          "total_transactions": 15757,
+          "buy_sell_ratio": 1.2809785755645628,
+          "buy_percentage": 56.15916735419179
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 2,
+        "momentum_level": "medium"
+      }
+    },
+    "CpWvVwJQ1LusxQB5r2VqzV5rwudVdj6dMGAkB1wagda5": {
+      "status": "analyzed",
+      "address": "CpWvVwJQ1LusxQB5r2VqzV5rwudVdj6dMGAkB1wagda5",
+      "token_name": "Polarys",
+      "current_metrics": {
+        "fdv": 4084,
+        "market_cap": 4084,
+        "price": 4.084e-06
+      },
+      "start_metrics": {
+        "start_fdv": 26814.35,
+        "start_market_cap": 26814.35
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -84.76934924769759,
+        "market_cap_change_pct": -84.76934924769759
+      },
+      "pattern": "died",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 94,
+          "sells": 283,
+          "total_transactions": 377,
+          "buy_sell_ratio": 0.3321554770318021,
+          "buy_percentage": 24.93368700265252
+        },
+        "h6": {
+          "buys": 94,
+          "sells": 283,
+          "total_transactions": 377,
+          "buy_sell_ratio": 0.3321554770318021,
+          "buy_percentage": 24.93368700265252
+        },
+        "m5": {
+          "buys": 8,
+          "sells": 11,
+          "total_transactions": 19,
+          "buy_sell_ratio": 0.7272727272727273,
+          "buy_percentage": 42.10526315789473
+        },
+        "h24": {
+          "buys": 94,
+          "sells": 283,
+          "total_transactions": 377,
+          "buy_sell_ratio": 0.3321554770318021,
+          "buy_percentage": 24.93368700265252
+        },
+        "overall": {
+          "total_buys": 290,
+          "total_sells": 860,
+          "total_transactions": 1150,
+          "buy_sell_ratio": 0.3372093023255814,
+          "buy_percentage": 25.217391304347824
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 2,
+        "total_risk_score": 3,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "B8UM8JyUB9QqzkrHeD3qYqEsr7UmhpT2yfh2hHrXXMvk": {
+      "status": "analyzed",
+      "address": "B8UM8JyUB9QqzkrHeD3qYqEsr7UmhpT2yfh2hHrXXMvk",
+      "token_name": "WHO ATE ALL THE PUSSY",
+      "current_metrics": {
+        "fdv": 52628,
+        "market_cap": 52628,
+        "price": 5.262e-05
+      },
+      "start_metrics": {
+        "start_fdv": 60129.02,
+        "start_market_cap": 60129.02
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -12.474874860757746,
+        "market_cap_change_pct": -12.474874860757746
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 3311,
+          "sells": 2703,
+          "total_transactions": 6014,
+          "buy_sell_ratio": 1.2249352571217167,
+          "buy_percentage": 55.05487196541403
+        },
+        "h6": {
+          "buys": 3311,
+          "sells": 2703,
+          "total_transactions": 6014,
+          "buy_sell_ratio": 1.2249352571217167,
+          "buy_percentage": 55.05487196541403
+        },
+        "m5": {
+          "buys": 404,
+          "sells": 306,
+          "total_transactions": 710,
+          "buy_sell_ratio": 1.3202614379084967,
+          "buy_percentage": 56.901408450704224
+        },
+        "h24": {
+          "buys": 3311,
+          "sells": 2703,
+          "total_transactions": 6014,
+          "buy_sell_ratio": 1.2249352571217167,
+          "buy_percentage": 55.05487196541403
+        },
+        "overall": {
+          "total_buys": 10337,
+          "total_sells": 8415,
+          "total_transactions": 18752,
+          "buy_sell_ratio": 1.2284016636957813,
+          "buy_percentage": 55.12478668941979
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 29,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "9YACfFFjQM1F3gVYWiKbJ9HfjU1MiTXWtEKVC5fY1iQM": {
+      "status": "analyzed",
+      "address": "9YACfFFjQM1F3gVYWiKbJ9HfjU1MiTXWtEKVC5fY1iQM",
+      "token_name": "Anal Intelligence",
+      "current_metrics": {
+        "fdv": 5745,
+        "market_cap": 5745,
+        "price": 5.745e-06
+      },
+      "start_metrics": {
+        "start_fdv": 26478.14,
+        "start_market_cap": 26478.14
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -78.30285662059345,
+        "market_cap_change_pct": -78.30285662059345
+      },
+      "pattern": "significant_drop",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 0,
+          "sells": 2,
+          "total_transactions": 2,
+          "buy_sell_ratio": 0.0,
+          "buy_percentage": 0.0
+        },
+        "h6": {
+          "buys": 12,
+          "sells": 18,
+          "total_transactions": 30,
+          "buy_sell_ratio": 0.6666666666666666,
+          "buy_percentage": 40.0
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 0,
+          "total_transactions": 0,
+          "buy_sell_ratio": 0.0,
+          "buy_percentage": 0.0
+        },
+        "h24": {
+          "buys": 3702,
+          "sells": 3204,
+          "total_transactions": 6906,
+          "buy_sell_ratio": 1.155430711610487,
+          "buy_percentage": 53.60556038227629
+        },
+        "overall": {
+          "total_buys": 3714,
+          "total_sells": 3224,
+          "total_transactions": 6938,
+          "buy_sell_ratio": 1.151985111662531,
+          "buy_percentage": 53.53127702507927
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 3,
+        "total_risk_score": 4,
+        "risk_level": "medium"
+      },
+      "momentum_metrics": {
+        "momentum_score": 2,
+        "momentum_level": "medium"
+      }
+    },
+    "2uvxwWcRjucBeogUrsdjbWb7E4LdYxDujvU8m4NLKgv4": {
+      "status": "analyzed",
+      "address": "2uvxwWcRjucBeogUrsdjbWb7E4LdYxDujvU8m4NLKgv4",
+      "token_name": "a retarded token",
+      "current_metrics": {
+        "fdv": 100047,
+        "market_cap": 100047,
+        "price": 0.0001
+      },
+      "start_metrics": {
+        "start_fdv": 67051.28,
+        "start_market_cap": 67051.28
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 49.209679516930926,
+        "market_cap_change_pct": 49.209679516930926
+      },
+      "pattern": "moderate_rise",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 5067,
+          "sells": 4003,
+          "total_transactions": 9070,
+          "buy_sell_ratio": 1.2658006495128653,
+          "buy_percentage": 55.86549062844542
+        },
+        "h6": {
+          "buys": 7206,
+          "sells": 5839,
+          "total_transactions": 13045,
+          "buy_sell_ratio": 1.234115430724439,
+          "buy_percentage": 55.239555385205065
+        },
+        "m5": {
+          "buys": 345,
+          "sells": 250,
+          "total_transactions": 595,
+          "buy_sell_ratio": 1.38,
+          "buy_percentage": 57.98319327731093
+        },
+        "h24": {
+          "buys": 7206,
+          "sells": 5839,
+          "total_transactions": 13045,
+          "buy_sell_ratio": 1.234115430724439,
+          "buy_percentage": 55.239555385205065
+        },
+        "overall": {
+          "total_buys": 19824,
+          "total_sells": 15931,
+          "total_transactions": 35755,
+          "buy_sell_ratio": 1.2443663297972507,
+          "buy_percentage": 55.443993847014404
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 3,
+        "momentum_level": "high"
+      }
+    },
+    "7NYAx4BAwyLBBxyLi1RQQc9bLJUEJdBkKG6K86vuhUFN": {
+      "status": "analyzed",
+      "address": "7NYAx4BAwyLBBxyLi1RQQc9bLJUEJdBkKG6K86vuhUFN",
+      "token_name": "Goonpocalypse",
+      "current_metrics": {
+        "fdv": 146436,
+        "market_cap": 146436,
+        "price": 0.0001464
+      },
+      "start_metrics": {
+        "start_fdv": 55690.85,
+        "start_market_cap": 55690.85
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 162.94445137756023,
+        "market_cap_change_pct": 162.94445137756023
+      },
+      "pattern": "moon_shot",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 2242,
+          "sells": 2218,
+          "total_transactions": 4460,
+          "buy_sell_ratio": 1.0108205590622181,
+          "buy_percentage": 50.26905829596413
+        },
+        "h6": {
+          "buys": 2242,
+          "sells": 2218,
+          "total_transactions": 4460,
+          "buy_sell_ratio": 1.0108205590622181,
+          "buy_percentage": 50.26905829596413
+        },
+        "m5": {
+          "buys": 1225,
+          "sells": 1149,
+          "total_transactions": 2374,
+          "buy_sell_ratio": 1.0661444734551784,
+          "buy_percentage": 51.60067396798652
+        },
+        "h24": {
+          "buys": 2242,
+          "sells": 2218,
+          "total_transactions": 4460,
+          "buy_sell_ratio": 1.0108205590622181,
+          "buy_percentage": 50.26905829596413
+        },
+        "overall": {
+          "total_buys": 7951,
+          "total_sells": 7803,
+          "total_transactions": 15754,
+          "buy_sell_ratio": 1.018967063949763,
+          "buy_percentage": 50.46972197537133
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "CtFMM8XToeG1ZyVgb7u5sw9cj1utBAybfgZ9F4X3vHEJ": {
+      "status": "analyzed",
+      "address": "CtFMM8XToeG1ZyVgb7u5sw9cj1utBAybfgZ9F4X3vHEJ",
+      "token_name": "Louber Gronger",
+      "current_metrics": {
+        "fdv": 1067907,
+        "market_cap": 1067907,
+        "price": 0.001067
+      },
+      "start_metrics": {
+        "start_fdv": null,
+        "start_market_cap": null
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 0,
+        "market_cap_change_pct": 0
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 1473,
+          "sells": 1420,
+          "total_transactions": 2893,
+          "buy_sell_ratio": 1.037323943661972,
+          "buy_percentage": 50.91600414794332
+        },
+        "h6": {
+          "buys": 1473,
+          "sells": 1420,
+          "total_transactions": 2893,
+          "buy_sell_ratio": 1.037323943661972,
+          "buy_percentage": 50.91600414794332
+        },
+        "m5": {
+          "buys": 1473,
+          "sells": 1420,
+          "total_transactions": 2893,
+          "buy_sell_ratio": 1.037323943661972,
+          "buy_percentage": 50.91600414794332
+        },
+        "h24": {
+          "buys": 1473,
+          "sells": 1420,
+          "total_transactions": 2893,
+          "buy_sell_ratio": 1.037323943661972,
+          "buy_percentage": 50.91600414794332
+        },
+        "overall": {
+          "total_buys": 5892,
+          "total_sells": 5680,
+          "total_transactions": 11572,
+          "buy_sell_ratio": 1.037323943661972,
+          "buy_percentage": 50.91600414794332
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 1,
+        "total_risk_score": 2,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "FNC6J6aXW5MiwLvc2KXU56RxV8zvvYuzRgp3SAm4ktTo": {
+      "status": "analyzed",
+      "address": "FNC6J6aXW5MiwLvc2KXU56RxV8zvvYuzRgp3SAm4ktTo",
+      "token_name": "Gake",
+      "current_metrics": {
+        "fdv": 81629,
+        "market_cap": 81629,
+        "price": 8.162e-05
+      },
+      "start_metrics": {
+        "start_fdv": 70422.41,
+        "start_market_cap": 70422.41
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 15.91338609400047,
+        "market_cap_change_pct": 15.91338609400047
+      },
+      "pattern": "stable",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 103,
+          "sells": 67,
+          "total_transactions": 170,
+          "buy_sell_ratio": 1.537313432835821,
+          "buy_percentage": 60.588235294117645
+        },
+        "h6": {
+          "buys": 103,
+          "sells": 67,
+          "total_transactions": 170,
+          "buy_sell_ratio": 1.537313432835821,
+          "buy_percentage": 60.588235294117645
+        },
+        "m5": {
+          "buys": 103,
+          "sells": 67,
+          "total_transactions": 170,
+          "buy_sell_ratio": 1.537313432835821,
+          "buy_percentage": 60.588235294117645
+        },
+        "h24": {
+          "buys": 103,
+          "sells": 67,
+          "total_transactions": 170,
+          "buy_sell_ratio": 1.537313432835821,
+          "buy_percentage": 60.588235294117645
+        },
+        "overall": {
+          "total_buys": 412,
+          "total_sells": 268,
+          "total_transactions": 680,
+          "buy_sell_ratio": 1.537313432835821,
+          "buy_percentage": 60.588235294117645
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "E9pd39bsqnQ62FVB4o7HMm8RZ8Hw2zG5wNsZDVgfBcJJ": {
+      "status": "analyzed",
+      "address": "E9pd39bsqnQ62FVB4o7HMm8RZ8Hw2zG5wNsZDVgfBcJJ",
+      "token_name": "Fork Chain",
+      "current_metrics": {
+        "fdv": 235934,
+        "market_cap": 235934,
+        "price": 0.0002359
+      },
+      "start_metrics": {
+        "start_fdv": 47509.98,
+        "start_market_cap": 47509.98
+      },
+      "performance_metrics": {
+        "fdv_change_pct": 396.59881986900433,
+        "market_cap_change_pct": 396.59881986900433
+      },
+      "pattern": "moon_shot",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 2871,
+          "sells": 2331,
+          "total_transactions": 5202,
+          "buy_sell_ratio": 1.2316602316602316,
+          "buy_percentage": 55.19031141868512
+        },
+        "h6": {
+          "buys": 2871,
+          "sells": 2331,
+          "total_transactions": 5202,
+          "buy_sell_ratio": 1.2316602316602316,
+          "buy_percentage": 55.19031141868512
+        },
+        "m5": {
+          "buys": 472,
+          "sells": 411,
+          "total_transactions": 883,
+          "buy_sell_ratio": 1.1484184914841848,
+          "buy_percentage": 53.45413363533409
+        },
+        "h24": {
+          "buys": 2871,
+          "sells": 2331,
+          "total_transactions": 5202,
+          "buy_sell_ratio": 1.2316602316602316,
+          "buy_percentage": 55.19031141868512
+        },
+        "overall": {
+          "total_buys": 9085,
+          "total_sells": 7404,
+          "total_transactions": 16489,
+          "buy_sell_ratio": 1.227039438141545,
+          "buy_percentage": 55.09733761901874
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 16,
+        "transaction_risk": 1,
+        "total_risk_score": 10,
+        "risk_level": "high"
+      },
+      "momentum_metrics": {
+        "momentum_score": 1,
+        "momentum_level": "medium"
+      }
+    },
+    "5HY9WjMvv62cgiKgweMGiYYG3MdbPodjDcjymqQjecaX": {
+      "status": "analyzed",
+      "address": "5HY9WjMvv62cgiKgweMGiYYG3MdbPodjDcjymqQjecaX",
+      "token_name": "This will bait the retail",
+      "current_metrics": {
+        "fdv": 5614,
+        "market_cap": 5614,
+        "price": 5.616e-06
+      },
+      "start_metrics": {
+        "start_fdv": 75446.21,
+        "start_market_cap": 75446.21
+      },
+      "performance_metrics": {
+        "fdv_change_pct": -92.558937022814,
+        "market_cap_change_pct": -92.558937022814
+      },
+      "pattern": "died",
+      "transaction_analysis": {
+        "h1": {
+          "buys": 1,
+          "sells": 6,
+          "total_transactions": 7,
+          "buy_sell_ratio": 0.16666666666666666,
+          "buy_percentage": 14.285714285714285
+        },
+        "h6": {
+          "buys": 3854,
+          "sells": 3321,
+          "total_transactions": 7175,
+          "buy_sell_ratio": 1.1604938271604939,
+          "buy_percentage": 53.714285714285715
+        },
+        "m5": {
+          "buys": 0,
+          "sells": 1,
+          "total_transactions": 1,
+          "buy_sell_ratio": 0.0,
+          "buy_percentage": 0.0
+        },
+        "h24": {
+          "buys": 3854,
+          "sells": 3321,
+          "total_transactions": 7175,
+          "buy_sell_ratio": 1.1604938271604939,
+          "buy_percentage": 53.714285714285715
+        },
+        "overall": {
+          "total_buys": 7709,
+          "total_sells": 6649,
+          "total_transactions": 14358,
+          "buy_sell_ratio": 1.1594224695442923,
+          "buy_percentage": 53.691321911129684
+        }
+      },
+      "risk_metrics": {
+        "base_risk": 1,
+        "transaction_risk": 2,
+        "total_risk_score": 3,
+        "risk_level": "low"
+      },
+      "momentum_metrics": {
+        "momentum_score": 2,
+        "momentum_level": "medium"
+      }
+    }
+  }
+}

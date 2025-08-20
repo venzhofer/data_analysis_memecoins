@@ -1,0 +1,51 @@
+================================================================================
+TOKEN CORRELATION AND PATTERN ANALYSIS REPORT
+================================================================================
+
+📊 SUMMARY STATISTICS
+----------------------------------------
+Total Tokens Analyzed: 26
+Average FDV Change: 25.34%
+Average Risk Score: 5.58/10
+Average Momentum Score: 1.54/3
+
+🔗 KEY CORRELATIONS
+----------------------------------------
+Strongest Positive: buy_percentage ↔ buy_pressure (r = 1.000)
+Strongest Negative: fdv_change_pct ↔ risk_performance_ratio (r = -0.498)
+Total Significant Correlations: 53
+
+⚖️ RISK-REWARD INSIGHTS
+----------------------------------------
+
+📈 PERFORMANCE SEGMENTS
+----------------------------------------
+Moon Shot: 3 tokens (11.5%), Avg Risk: 7.3, Avg Momentum: 1.0
+Moderate Rise: 4 tokens (15.4%), Avg Risk: 6.0, Avg Momentum: 1.5
+Stable: 2 tokens (7.7%), Avg Risk: 10.0, Avg Momentum: 1.0
+Strong Rise: 1 tokens (3.8%), Avg Risk: 10.0, Avg Momentum: 1.0
+Died: 9 tokens (34.6%), Avg Risk: 4.2, Avg Momentum: 2.0
+Moderate Drop: 6 tokens (23.1%), Avg Risk: 3.5, Avg Momentum: 1.5
+Significant Drop: 1 tokens (3.8%), Avg Risk: 10.0, Avg Momentum: 1.0
+
+🎪 CLUSTER ANALYSIS
+----------------------------------------
+Number of Clusters: 2
+cluster_0: 15 tokens (57.7%), Avg Performance: -41.5%, Avg Risk: 3.3
+cluster_1: 11 tokens (42.3%), Avg Performance: 116.4%, Avg Risk: 8.6
+
+💱 TRANSACTION INSIGHTS
+----------------------------------------
+Volume-Performance Correlation: 0.195
+Buy Pressure-Performance Correlation: 0.032
+High vs Low Volume Performance Difference: 76.2%
+
+💡 KEY INSIGHTS & RECOMMENDATIONS
+----------------------------------------
+• Success Rate: 38.5% of tokens show positive performance
+• High-risk tokens show higher average returns (higher risk, higher reward)
+• Strongest relationship: buy_percentage and buy_pressure (1.000 correlation)
+• Higher transaction volume correlates with better performance
+• Largest cluster contains 15 tokens with -41.5% average performance
+
+================================================================================
