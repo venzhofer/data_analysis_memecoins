@@ -1,0 +1,280 @@
+====================================================================================================
+🧠 HUMAN-READABLE CORRELATION ANALYSIS REPORT
+====================================================================================================
+Generated: 2025-08-20 18:52:23
+Total Tokens Analyzed: 26
+
+🎯 PATTERN SUCCESS ANALYSIS
+--------------------------
+How well each pattern predicts actual performance outcomes
+
+Pattern: moon_shot
+Emoji: 🚀 Moon Shot (>100% gain)
+Occurrence: 3 tokens (11.5%)
+Prediction: 100%+ gains
+Accuracy: 100.0%
+Avg Performance: +393.1%
+Success Rate: 100.0%
+Moon Shot Rate: 100.0%
+Death Rate: 0.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+Pattern: moderate_rise
+Emoji: 📊 Moderate Rise (20-50% gain)
+Occurrence: 4 tokens (15.4%)
+Prediction: 20-50% gains
+Accuracy: 100.0%
+Avg Performance: +37.9%
+Success Rate: 100.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+Pattern: stable
+Emoji: ⚖️ Stable (-20% to +20%)
+Occurrence: 8 tokens (30.8%)
+Prediction: Stable performance
+Accuracy: 100.0%
+Avg Performance: +1.1%
+Success Rate: 25.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+Pattern: strong_rise
+Emoji: 📈 Strong Rise (50-100% gain)
+Occurrence: 1 tokens (3.8%)
+Prediction: 50%+ gains
+Accuracy: 100.0%
+Avg Performance: +51.5%
+Success Rate: 100.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+Pattern: significant_drop
+Emoji: 💸 Significant Drop (-50% to -80%)
+Occurrence: 4 tokens (15.4%)
+Prediction: 50-80% drops
+Accuracy: 100.0%
+Avg Performance: -67.2%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+Pattern: died
+Emoji: ⚰️ Died (>80% loss)
+Occurrence: 5 tokens (19.2%)
+Prediction: 80%+ losses
+Accuracy: 100.0%
+Avg Performance: -87.8%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Death Rate: 100.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+Pattern: moderate_drop
+Emoji: 📉 Moderate Drop (-20% to -50%)
+Occurrence: 1 tokens (3.8%)
+Prediction: 20-50% drops
+Accuracy: 100.0%
+Avg Performance: -25.2%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Reliability: 🟢 HIGH - Very reliable pattern
+
+⚠️ RISK-PERFORMANCE CORRELATIONS
+--------------------------------
+How risk levels correlate with actual performance outcomes
+
+Risk Level: low
+Occurrence: 14 tokens (53.8%)
+Avg Performance: +13.4%
+Success Rate: 21.4%
+Moon Shot Rate: 7.1%
+Death Rate: 35.7%
+Risk Adjusted Return: 4.2
+Recommendation: ✅ Excellent choice for conservative strategies
+
+Risk Level: high
+Occurrence: 11 tokens (42.3%)
+Avg Performance: +49.9%
+Success Rate: 63.6%
+Moon Shot Rate: 18.2%
+Death Rate: 0.0%
+Risk Adjusted Return: 4.5
+Recommendation: ❌ Poor risk/reward ratio, avoid
+
+Risk Level: medium
+Occurrence: 1 tokens (3.8%)
+Avg Performance: -78.3%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Risk Adjusted Return: -15.7
+Recommendation: ❌ Poor risk/reward ratio, avoid
+
+Overall Correlation: 0.111
+Interpretation: VERY WEAK or no correlation
+
+📈 MOMENTUM-PERFORMANCE CORRELATIONS
+-----------------------------------
+How momentum indicators correlate with actual performance
+
+Momentum Level: medium
+Occurrence: 22 tokens (84.6%)
+Avg Performance: +34.5%
+Success Rate: 40.9%
+Moon Shot Rate: 13.6%
+Death Rate: 18.2%
+Momentum Efficiency: 15.2
+Recommendation: ❓ Mixed signals, proceed with caution
+
+Momentum Level: high
+Occurrence: 4 tokens (15.4%)
+Avg Performance: -25.2%
+Success Rate: 25.0%
+Moon Shot Rate: 0.0%
+Death Rate: 25.0%
+Momentum Efficiency: -6.3
+Recommendation: ❓ Mixed signals, proceed with caution
+
+Overall Correlation: -0.316
+Interpretation: WEAK correlation
+
+💱 TRANSACTION PATTERN CORRELATIONS
+----------------------------------
+How transaction patterns correlate with performance outcomes
+
+Pattern: High Buy Pressure
+Condition: buy_sell_ratio > 1.2
+Occurrence: 13 tokens (50.0%)
+Avg Performance: +20.6%
+Success Rate: 46.2%
+Moon Shot Rate: 7.7%
+Death Rate: 7.7%
+Recommendation: ✅ Strong buying pressure correlates with gains
+
+Pattern: Low Buy Pressure
+Condition: buy_sell_ratio < 0.8
+Occurrence: 2 tokens (7.7%)
+Avg Performance: -42.4%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Death Rate: 50.0%
+Recommendation: ❌ Low buying pressure correlates with losses
+
+Pattern: Balanced Pressure
+Condition: 0.8 ≤ buy_sell_ratio ≤ 1.2
+Occurrence: 11 tokens (42.3%)
+Avg Performance: +43.2%
+Success Rate: 36.4%
+Moon Shot Rate: 18.2%
+Death Rate: 27.3%
+Recommendation: ❓ Mixed correlation, not a strong predictor
+
+🔄 BUY/SELL PRESSURE ANALYSIS
+----------------------------
+Detailed analysis of buy vs sell pressure patterns
+
+Pressure Type: Strong Buy Pressure
+Condition: buy_pressure > 10%
+Occurrence: 5 tokens (19.2%)
+Avg Performance: +26.7%
+Success Rate: 80.0%
+Moon Shot Rate: 0.0%
+Death Rate: 0.0%
+Effectiveness: ✅ Effective - Buy pressure predicts gains
+
+Pressure Type: Moderate Buy Pressure
+Condition: 0% < buy_pressure ≤ 10%
+Occurrence: 15 tokens (57.7%)
+Avg Performance: +8.8%
+Success Rate: 26.7%
+Moon Shot Rate: 13.3%
+Death Rate: 13.3%
+Effectiveness: ✅ Effective - Buy pressure predicts gains
+
+Pressure Type: Moderate Sell Pressure
+Condition: -10% ≤ buy_pressure < 0%
+Occurrence: 5 tokens (19.2%)
+Avg Performance: +95.5%
+Success Rate: 40.0%
+Moon Shot Rate: 20.0%
+Death Rate: 40.0%
+Effectiveness: ❓ Mixed - Inconsistent correlation
+
+Pressure Type: Strong Sell Pressure
+Condition: buy_pressure < -10%
+Occurrence: 1 tokens (3.8%)
+Avg Performance: -84.8%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Death Rate: 100.0%
+Effectiveness: ✅ Effective - Sell pressure predicts losses
+
+💰 MARKET CAP vs FDV CORRELATIONS
+--------------------------------
+How market cap changes correlate with FDV changes
+
+Market Cap Pattern: Strong Market Cap Growth
+Condition: market_cap_change > 50%
+Occurrence: 4 tokens (15.4%)
+Avg Fdv Change: +307.7%
+Success Rate: 100.0%
+Consistency: ✅ Consistent - Market cap growth aligns with FDV gains
+
+Market Cap Pattern: Moderate Market Cap Growth
+Condition: 0% < market_cap_change ≤ 50%
+Occurrence: 6 tokens (23.1%)
+Avg Fdv Change: +28.8%
+Success Rate: 100.0%
+Consistency: ✅ Consistent - Market cap growth aligns with FDV gains
+
+Market Cap Pattern: Stable Market Cap
+Condition: -20% ≤ market_cap_change ≤ 0%
+Occurrence: 6 tokens (23.1%)
+Avg Fdv Change: -2.1%
+Success Rate: 0.0%
+Consistency: ❓ Inconsistent - Market cap and FDV changes don't align
+
+Market Cap Pattern: Market Cap Decline
+Condition: market_cap_change < -20%
+Occurrence: 10 tokens (38.5%)
+Avg Fdv Change: -73.3%
+Success Rate: 0.0%
+Consistency: ✅ Consistent - Market cap decline aligns with FDV losses
+
+🔮 PREDICTIVE POWER ANALYSIS
+---------------------------
+How well different indicators predict actual outcomes
+
+Metric: Risk Score
+Correlation: 0.111
+Correlation Strength: VERY WEAK
+High Confidence Success: 27.3%
+Low Confidence Success: 58.3%
+Predictive Power: -31.1%
+Reliability: 🔴 POOR - Unreliable predictor
+
+Metric: Buy/Sell Ratio
+Correlation: -0.003
+Correlation Strength: VERY WEAK
+High Confidence Success: 46.2%
+Low Confidence Success: 0.0%
+Predictive Power: +46.2%
+Reliability: 🟢 HIGH - Very reliable predictor
+
+Metric: Buy Pressure
+Correlation: 0.032
+Correlation Strength: VERY WEAK
+High Confidence Success: 50.0%
+Low Confidence Success: 0.0%
+Predictive Power: +50.0%
+Reliability: 🟢 HIGH - Very reliable predictor
+
+💡 ACTIONABLE INSIGHTS & RECOMMENDATIONS
+---------------------------------------
+Practical recommendations based on pattern analysis

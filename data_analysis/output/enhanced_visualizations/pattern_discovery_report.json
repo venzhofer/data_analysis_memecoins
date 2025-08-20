@@ -1,0 +1,118 @@
+{
+  "report_metadata": {
+    "generated_at": "2025-08-20T18:47:19.304572",
+    "total_tokens": 26,
+    "analysis_version": "1.0"
+  },
+  "summary_statistics": {
+    "success_rate": 38.46153846153847,
+    "average_performance": 25.335312648053794,
+    "best_performer": 619.7665779950631,
+    "worst_performer": -93.71148038118304,
+    "total_tokens": 26
+  },
+  "pattern_analysis": {
+    "stable": 8,
+    "died": 5,
+    "moderate_rise": 4,
+    "significant_drop": 4,
+    "moon_shot": 3,
+    "strong_rise": 1,
+    "moderate_drop": 1
+  },
+  "risk_analysis": {
+    "risk_distribution": {
+      "low": 14,
+      "high": 11,
+      "medium": 1
+    },
+    "risk_performance": {
+      "high": 49.93678468206801,
+      "low": 13.408310997660298,
+      "medium": -78.30285662059345
+    }
+  },
+  "momentum_analysis": {
+    "momentum_distribution": {
+      "medium": 22,
+      "high": 4
+    },
+    "momentum_performance": {
+      "high": -25.211065287370616,
+      "medium": 34.52556318176733
+    }
+  },
+  "top_performers": [
+    {
+      "token_name": "deadly weapon",
+      "fdv_change_pct": 619.7665779950631,
+      "pattern": "moon_shot",
+      "risk_level": "low"
+    },
+    {
+      "token_name": "Fork Chain",
+      "fdv_change_pct": 396.59881986900433,
+      "pattern": "moon_shot",
+      "risk_level": "high"
+    },
+    {
+      "token_name": "Goonpocalypse",
+      "fdv_change_pct": 162.94445137756023,
+      "pattern": "moon_shot",
+      "risk_level": "high"
+    },
+    {
+      "token_name": "SMART INU",
+      "fdv_change_pct": 51.49758737580697,
+      "pattern": "strong_rise",
+      "risk_level": "high"
+    },
+    {
+      "token_name": "a retarded token",
+      "fdv_change_pct": 49.209679516930926,
+      "pattern": "moderate_rise",
+      "risk_level": "low"
+    },
+    {
+      "token_name": "LIF3z16",
+      "fdv_change_pct": 41.57471621860819,
+      "pattern": "moderate_rise",
+      "risk_level": "high"
+    },
+    {
+      "token_name": "Albert",
+      "fdv_change_pct": 36.283678742777774,
+      "pattern": "moderate_rise",
+      "risk_level": "low"
+    },
+    {
+      "token_name": "#FREESCHLEP",
+      "fdv_change_pct": 24.483493890269806,
+      "pattern": "moderate_rise",
+      "risk_level": "high"
+    },
+    {
+      "token_name": "Gake",
+      "fdv_change_pct": 15.91338609400047,
+      "pattern": "stable",
+      "risk_level": "high"
+    },
+    {
+      "token_name": "Superman Kiss",
+      "fdv_change_pct": 5.630100982155208,
+      "pattern": "stable",
+      "risk_level": "high"
+    }
+  ],
+  "risk_reward_analysis": {
+    "risk_adjusted_returns": {
+      "died": -26.297697642350386,
+      "moderate_drop": -2.291201463988921,
+      "moderate_rise": 8.625769478662345,
+      "moon_shot": 85.81880981500392,
+      "significant_drop": -13.015036823083822,
+      "stable": 0.10305241153861286,
+      "strong_rise": 4.681598852346088
+    }
+  }
+}

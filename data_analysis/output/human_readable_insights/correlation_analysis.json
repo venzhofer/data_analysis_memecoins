@@ -1,0 +1,392 @@
+{
+  "pattern_success": {
+    "title": "\ud83c\udfaf PATTERN SUCCESS ANALYSIS",
+    "description": "How well each pattern predicts actual performance outcomes",
+    "insights": [
+      {
+        "pattern": "moon_shot",
+        "emoji": "\ud83d\ude80 Moon Shot (>100% gain)",
+        "occurrence": "3 tokens (11.5%)",
+        "prediction": "100%+ gains",
+        "accuracy": "100.0%",
+        "avg_performance": "+393.1%",
+        "success_rate": "100.0%",
+        "moon_shot_rate": "100.0%",
+        "death_rate": "0.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      },
+      {
+        "pattern": "moderate_rise",
+        "emoji": "\ud83d\udcca Moderate Rise (20-50% gain)",
+        "occurrence": "4 tokens (15.4%)",
+        "prediction": "20-50% gains",
+        "accuracy": "100.0%",
+        "avg_performance": "+37.9%",
+        "success_rate": "100.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      },
+      {
+        "pattern": "stable",
+        "emoji": "\u2696\ufe0f Stable (-20% to +20%)",
+        "occurrence": "8 tokens (30.8%)",
+        "prediction": "Stable performance",
+        "accuracy": "100.0%",
+        "avg_performance": "+1.1%",
+        "success_rate": "25.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      },
+      {
+        "pattern": "strong_rise",
+        "emoji": "\ud83d\udcc8 Strong Rise (50-100% gain)",
+        "occurrence": "1 tokens (3.8%)",
+        "prediction": "50%+ gains",
+        "accuracy": "100.0%",
+        "avg_performance": "+51.5%",
+        "success_rate": "100.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      },
+      {
+        "pattern": "significant_drop",
+        "emoji": "\ud83d\udcb8 Significant Drop (-50% to -80%)",
+        "occurrence": "4 tokens (15.4%)",
+        "prediction": "50-80% drops",
+        "accuracy": "100.0%",
+        "avg_performance": "-67.2%",
+        "success_rate": "0.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      },
+      {
+        "pattern": "died",
+        "emoji": "\u26b0\ufe0f Died (>80% loss)",
+        "occurrence": "5 tokens (19.2%)",
+        "prediction": "80%+ losses",
+        "accuracy": "100.0%",
+        "avg_performance": "-87.8%",
+        "success_rate": "0.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "100.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      },
+      {
+        "pattern": "moderate_drop",
+        "emoji": "\ud83d\udcc9 Moderate Drop (-20% to -50%)",
+        "occurrence": "1 tokens (3.8%)",
+        "prediction": "20-50% drops",
+        "accuracy": "100.0%",
+        "avg_performance": "-25.2%",
+        "success_rate": "0.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable pattern"
+      }
+    ]
+  },
+  "risk_performance": {
+    "title": "\u26a0\ufe0f RISK-PERFORMANCE CORRELATIONS",
+    "description": "How risk levels correlate with actual performance outcomes",
+    "insights": [
+      {
+        "risk_level": "low",
+        "occurrence": "14 tokens (53.8%)",
+        "avg_performance": "+13.4%",
+        "success_rate": "21.4%",
+        "moon_shot_rate": "7.1%",
+        "death_rate": "35.7%",
+        "risk_adjusted_return": "4.2",
+        "recommendation": "\u2705 Excellent choice for conservative strategies"
+      },
+      {
+        "risk_level": "high",
+        "occurrence": "11 tokens (42.3%)",
+        "avg_performance": "+49.9%",
+        "success_rate": "63.6%",
+        "moon_shot_rate": "18.2%",
+        "death_rate": "0.0%",
+        "risk_adjusted_return": "4.5",
+        "recommendation": "\u274c Poor risk/reward ratio, avoid"
+      },
+      {
+        "risk_level": "medium",
+        "occurrence": "1 tokens (3.8%)",
+        "avg_performance": "-78.3%",
+        "success_rate": "0.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "risk_adjusted_return": "-15.7",
+        "recommendation": "\u274c Poor risk/reward ratio, avoid"
+      }
+    ],
+    "overall_correlation": "0.111",
+    "correlation_interpretation": "VERY WEAK or no correlation"
+  },
+  "momentum_performance": {
+    "title": "\ud83d\udcc8 MOMENTUM-PERFORMANCE CORRELATIONS",
+    "description": "How momentum indicators correlate with actual performance",
+    "insights": [
+      {
+        "momentum_level": "medium",
+        "occurrence": "22 tokens (84.6%)",
+        "avg_performance": "+34.5%",
+        "success_rate": "40.9%",
+        "moon_shot_rate": "13.6%",
+        "death_rate": "18.2%",
+        "momentum_efficiency": "15.2",
+        "recommendation": "\u2753 Mixed signals, proceed with caution"
+      },
+      {
+        "momentum_level": "high",
+        "occurrence": "4 tokens (15.4%)",
+        "avg_performance": "-25.2%",
+        "success_rate": "25.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "25.0%",
+        "momentum_efficiency": "-6.3",
+        "recommendation": "\u2753 Mixed signals, proceed with caution"
+      }
+    ],
+    "overall_correlation": "-0.316",
+    "correlation_interpretation": "WEAK correlation"
+  },
+  "transaction_patterns": {
+    "title": "\ud83d\udcb1 TRANSACTION PATTERN CORRELATIONS",
+    "description": "How transaction patterns correlate with performance outcomes",
+    "insights": [
+      {
+        "pattern": "High Buy Pressure",
+        "condition": "buy_sell_ratio > 1.2",
+        "occurrence": "13 tokens (50.0%)",
+        "avg_performance": "+20.6%",
+        "success_rate": "46.2%",
+        "moon_shot_rate": "7.7%",
+        "death_rate": "7.7%",
+        "recommendation": "\u2705 Strong buying pressure correlates with gains"
+      },
+      {
+        "pattern": "Low Buy Pressure",
+        "condition": "buy_sell_ratio < 0.8",
+        "occurrence": "2 tokens (7.7%)",
+        "avg_performance": "-42.4%",
+        "success_rate": "0.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "50.0%",
+        "recommendation": "\u274c Low buying pressure correlates with losses"
+      },
+      {
+        "pattern": "Balanced Pressure",
+        "condition": "0.8 \u2264 buy_sell_ratio \u2264 1.2",
+        "occurrence": "11 tokens (42.3%)",
+        "avg_performance": "+43.2%",
+        "success_rate": "36.4%",
+        "moon_shot_rate": "18.2%",
+        "death_rate": "27.3%",
+        "recommendation": "\u2753 Mixed correlation, not a strong predictor"
+      }
+    ],
+    "buy_pressure_correlation": "0.032",
+    "buy_pressure_interpretation": "VERY WEAK or no correlation"
+  },
+  "buy_sell_pressure": {
+    "title": "\ud83d\udd04 BUY/SELL PRESSURE ANALYSIS",
+    "description": "Detailed analysis of buy vs sell pressure patterns",
+    "insights": [
+      {
+        "pressure_type": "Strong Buy Pressure",
+        "condition": "buy_pressure > 10%",
+        "occurrence": "5 tokens (19.2%)",
+        "avg_performance": "+26.7%",
+        "success_rate": "80.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "0.0%",
+        "effectiveness": "\u2705 Effective - Buy pressure predicts gains"
+      },
+      {
+        "pressure_type": "Moderate Buy Pressure",
+        "condition": "0% < buy_pressure \u2264 10%",
+        "occurrence": "15 tokens (57.7%)",
+        "avg_performance": "+8.8%",
+        "success_rate": "26.7%",
+        "moon_shot_rate": "13.3%",
+        "death_rate": "13.3%",
+        "effectiveness": "\u2705 Effective - Buy pressure predicts gains"
+      },
+      {
+        "pressure_type": "Moderate Sell Pressure",
+        "condition": "-10% \u2264 buy_pressure < 0%",
+        "occurrence": "5 tokens (19.2%)",
+        "avg_performance": "+95.5%",
+        "success_rate": "40.0%",
+        "moon_shot_rate": "20.0%",
+        "death_rate": "40.0%",
+        "effectiveness": "\u2753 Mixed - Inconsistent correlation"
+      },
+      {
+        "pressure_type": "Strong Sell Pressure",
+        "condition": "buy_pressure < -10%",
+        "occurrence": "1 tokens (3.8%)",
+        "avg_performance": "-84.8%",
+        "success_rate": "0.0%",
+        "moon_shot_rate": "0.0%",
+        "death_rate": "100.0%",
+        "effectiveness": "\u2705 Effective - Sell pressure predicts losses"
+      }
+    ]
+  },
+  "market_cap_correlations": {
+    "title": "\ud83d\udcb0 MARKET CAP vs FDV CORRELATIONS",
+    "description": "How market cap changes correlate with FDV changes",
+    "insights": [
+      {
+        "market_cap_pattern": "Strong Market Cap Growth",
+        "condition": "market_cap_change > 50%",
+        "occurrence": "4 tokens (15.4%)",
+        "avg_fdv_change": "+307.7%",
+        "success_rate": "100.0%",
+        "consistency": "\u2705 Consistent - Market cap growth aligns with FDV gains"
+      },
+      {
+        "market_cap_pattern": "Moderate Market Cap Growth",
+        "condition": "0% < market_cap_change \u2264 50%",
+        "occurrence": "6 tokens (23.1%)",
+        "avg_fdv_change": "+28.8%",
+        "success_rate": "100.0%",
+        "consistency": "\u2705 Consistent - Market cap growth aligns with FDV gains"
+      },
+      {
+        "market_cap_pattern": "Stable Market Cap",
+        "condition": "-20% \u2264 market_cap_change \u2264 0%",
+        "occurrence": "6 tokens (23.1%)",
+        "avg_fdv_change": "-2.1%",
+        "success_rate": "0.0%",
+        "consistency": "\u2753 Inconsistent - Market cap and FDV changes don't align"
+      },
+      {
+        "market_cap_pattern": "Market Cap Decline",
+        "condition": "market_cap_change < -20%",
+        "occurrence": "10 tokens (38.5%)",
+        "avg_fdv_change": "-73.3%",
+        "success_rate": "0.0%",
+        "consistency": "\u2705 Consistent - Market cap decline aligns with FDV losses"
+      }
+    ],
+    "correlation": "1.000",
+    "interpretation": "STRONG correlation"
+  },
+  "predictive_power": {
+    "title": "\ud83d\udd2e PREDICTIVE POWER ANALYSIS",
+    "description": "How well different indicators predict actual outcomes",
+    "insights": [
+      {
+        "metric": "Risk Score",
+        "correlation": "0.111",
+        "correlation_strength": "VERY WEAK",
+        "high_confidence_success": "27.3%",
+        "low_confidence_success": "58.3%",
+        "predictive_power": "-31.1%",
+        "reliability": "\ud83d\udd34 POOR - Unreliable predictor"
+      },
+      {
+        "metric": "Buy/Sell Ratio",
+        "correlation": "-0.003",
+        "correlation_strength": "VERY WEAK",
+        "high_confidence_success": "46.2%",
+        "low_confidence_success": "0.0%",
+        "predictive_power": "+46.2%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable predictor"
+      },
+      {
+        "metric": "Buy Pressure",
+        "correlation": "0.032",
+        "correlation_strength": "VERY WEAK",
+        "high_confidence_success": "50.0%",
+        "low_confidence_success": "0.0%",
+        "predictive_power": "+50.0%",
+        "reliability": "\ud83d\udfe2 HIGH - Very reliable predictor"
+      }
+    ]
+  },
+  "actionable_insights": {
+    "title": "\ud83d\udca1 ACTIONABLE INSIGHTS & RECOMMENDATIONS",
+    "description": "Practical recommendations based on pattern analysis",
+    "insights": [],
+    "market_conditions": {
+      "condition": "BEARISH - Low success rate suggests challenging conditions",
+      "success_rate": "38.5%",
+      "avg_performance": "+25.3%",
+      "strategy": "Conservative approach, wait for better opportunities"
+    },
+    "pattern_recommendations": [
+      {
+        "pattern": "moon_shot",
+        "success_rate": "100.0%",
+        "recommendation": "\u2705 Moon Shot - High success rate, consider targeting"
+      },
+      {
+        "pattern": "moderate_rise",
+        "success_rate": "100.0%",
+        "recommendation": "\u2705 Moderate Rise - High success rate, consider targeting"
+      },
+      {
+        "pattern": "stable",
+        "success_rate": "25.0%",
+        "recommendation": "\u274c Stable - Low success rate, avoid or short"
+      },
+      {
+        "pattern": "strong_rise",
+        "success_rate": "100.0%",
+        "recommendation": "\u2705 Strong Rise - High success rate, consider targeting"
+      },
+      {
+        "pattern": "significant_drop",
+        "success_rate": "0.0%",
+        "recommendation": "\u274c Significant Drop - Low success rate, avoid or short"
+      },
+      {
+        "pattern": "died",
+        "success_rate": "0.0%",
+        "recommendation": "\u274c Died - Low success rate, avoid or short"
+      },
+      {
+        "pattern": "moderate_drop",
+        "success_rate": "0.0%",
+        "recommendation": "\u274c Moderate Drop - Low success rate, avoid or short"
+      }
+    ],
+    "risk_recommendations": [
+      {
+        "risk_level": "low",
+        "avg_performance": "+13.4%",
+        "success_rate": "21.4%",
+        "recommendation": "\u26a0\ufe0f Low Risk - Mixed results, proceed carefully"
+      },
+      {
+        "risk_level": "high",
+        "avg_performance": "+49.9%",
+        "success_rate": "63.6%",
+        "recommendation": "\u2705 High Risk - Positive returns, good risk/reward"
+      },
+      {
+        "risk_level": "medium",
+        "avg_performance": "-78.3%",
+        "success_rate": "0.0%",
+        "recommendation": "\u274c Medium Risk - Poor performance, avoid"
+      }
+    ],
+    "top_combinations": [
+      {
+        "combination": "High Risk + Medium Momentum",
+        "tokens": 10,
+        "avg_performance": "+60.6%",
+        "success_rate": "70.0%",
+        "rating": "\ud83e\udd47 GOLD - Very good combination"
+      }
+    ]
+  }
+}

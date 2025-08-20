@@ -1,0 +1,27 @@
+================================================================================
+📊 CORRELATION ANALYSIS SUMMARY
+================================================================================
+Generated: 2025-08-20 18:52:23
+
+🎯 MARKET CONDITIONS:
+   BEARISH - Low success rate suggests challenging conditions
+   Success Rate: 38.5%
+   Strategy: Conservative approach, wait for better opportunities
+
+🏆 TOP PERFORMING PATTERNS:
+   1. 🚀 Moon Shot (>100% gain) Moon Shot
+      Success Rate: 100.0%
+      Accuracy: 100.0%
+
+   2. 📊 Moderate Rise (20-50% gain) Moderate Rise
+      Success Rate: 100.0%
+      Accuracy: 100.0%
+
+   3. 📈 Strong Rise (50-100% gain) Strong Rise
+      Success Rate: 100.0%
+      Accuracy: 100.0%
+
+🔥 TOP INDICATOR COMBINATIONS:
+   1. High Risk + Medium Momentum
+      Success Rate: 70.0%
+      Rating: 🥇 GOLD - Very good combination
