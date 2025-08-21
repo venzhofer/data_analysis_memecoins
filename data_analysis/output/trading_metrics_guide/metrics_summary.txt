@@ -1,0 +1,34 @@
+================================================================================
+📊 TRADING METRICS GUIDE SUMMARY
+================================================================================
+Generated: 2025-08-20 22:28:18
+
+📊 BASIC TRADING METRICS:
+• Return (%): Percentage change in investment value
+  Example: If 0.5 SOL becomes 1.0 SOL, return = +100%
+
+• Maximum Drawdown (%): Largest peak-to-trough decline in investment value
+  Example: If investment drops from 1.0 SOL to 0.6 SOL, drawdown = 40%
+
+• Sharpe Ratio: Risk-adjusted return measure
+  Example: Sharpe > 1.0 = good, > 2.0 = excellent
+
+• Volatility: Measure of price/investment variability
+  Example: High volatility = large price swings
+
+• Win Rate (%): Percentage of profitable trades
+  Example: 8 wins out of 10 trades = 80% win rate
+
+📉 DRAWDOWN INSIGHTS:
+• Average Drawdown: 45.4%
+• Maximum Drawdown: 93.7%
+
+⚠️ RISK INSIGHTS:
+• Average Risk Score: 5.6
+• High Risk Tokens: 11
+
+💡 PRACTICAL USAGE:
+• Use drawdown limits to manage risk
+• Aim for Sharpe ratio > 1.0
+• Monitor risk-adjusted returns
+• Set stop-losses based on drawdown analysis

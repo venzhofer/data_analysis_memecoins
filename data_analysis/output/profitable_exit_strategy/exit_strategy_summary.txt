@@ -1,0 +1,51 @@
+================================================================================
+🎯 PROFITABLE EXIT STRATEGY GUIDE SUMMARY
+================================================================================
+Generated: 2025-08-20 22:38:59
+
+🎯 EXIT STRATEGY TYPES:
+• Immediate Exit: Exit entire position immediately when conditions are met
+  When to use: High urgency score (8-10), extreme risk, or mega profits
+  Risk level: Low (locks in gains)
+
+• Aggressive Take Profit: Exit 40-30-20-10% of position at profit levels
+  When to use: High urgency score (6-7), high profits, declining momentum
+  Risk level: Low-Medium
+
+• Moderate Take Profit: Exit 30-30-25-15% of position at profit levels
+  When to use: Medium urgency score (4-5), moderate profits, stable momentum
+  Risk level: Medium
+
+• Conservative Take Profit: Exit 20-30-30-20% of position at profit levels
+  When to use: Low urgency score (2-3), low profits, rising momentum
+  Risk level: Medium-High
+
+• Hold and Monitor: Maintain position with tight trailing stops
+  When to use: Very low urgency score (0-1), strong fundamentals, rising momentum
+  Risk level: High
+
+💰 PROFIT-BASED STRATEGIES:
+• mega_profit: 393.1% return, 4.7/10 urgency
+  Recommended: aggressive_take_profit
+
+• high_profit: 51.5% return, 4.0/10 urgency
+  Recommended: moderate_take_profit
+
+• moderate_profit: 42.4% return, 1.0/10 urgency
+  Recommended: hold_and_monitor
+
+• low_profit: 20.2% return, 3.0/10 urgency
+  Recommended: conservative_take_profit
+
+⚠️ RISK-BASED STRATEGIES:
+• Low Risk: 7.3% return, 1.2/10 urgency
+  Exit time: 72 hours
+
+• Critical Risk: 49.9% return, 3.7/10 urgency
+  Exit time: 72 hours
+
+💡 IMPLEMENTATION TIPS:
+• Set take-profit orders at calculated levels
+• Use trailing stops to protect profits
+• Monitor exit urgency scores continuously
+• Scale out positions based on risk and momentum

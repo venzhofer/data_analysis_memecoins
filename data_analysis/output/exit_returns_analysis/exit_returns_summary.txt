@@ -1,0 +1,21 @@
+================================================================================
+💰 EXIT RETURNS ANALYSIS SUMMARY
+================================================================================
+Generated: 2025-08-20 20:57:52
+
+🎯 KEY FINDINGS:
+• Hold Strategy: +25.3%
+• Best Exit Strategy: +45.4%
+• Conservative Exit Strategy: +24.8%
+
+📈 IMPROVEMENT:
+• Best Exit vs Hold: +20.1%
+• Conservative Exit vs Hold: -0.6%
+
+🚫 POINT OF NO RETURN:
+• Average Loss: 68.4%
+• Tokens Affected: 18
+
+💡 CONCLUSION:
+Following exit rules significantly improves returns and reduces losses.
+The point of no return represents the average loss when tokens fail completely.

@@ -1,0 +1,24 @@
+{
+  "strategy_comparison": {
+    "title": "\ud83d\udcca STRATEGY PERFORMANCE COMPARISON",
+    "description": "Comparison of different investment strategies",
+    "strategies": {
+      "hold": {
+        "total_investment_sol": "13.00",
+        "total_profit_sol": "+3.29",
+        "total_return_sol": "16.29",
+        "total_return_pct": "+25.3%",
+        "avg_profit_pct": "+25.3%",
+        "median_profit_pct": "+0.0%",
+        "win_rate": "38.5%",
+        "eligible_tokens": 26
+      },
+      "entry_rules": {
+        "total_investment_sol": "1.50",
+        "total_profit_sol": "+3.53",
+        "total_return_sol": "16.53",
+        "total_return_pct": "+235.1%",
+        "avg_profit_pct": "+27.1%",
+        "median_profit_pct": "+0.0%",
+        "win_rate": "11.5%",
+        "eligible_tokens": 

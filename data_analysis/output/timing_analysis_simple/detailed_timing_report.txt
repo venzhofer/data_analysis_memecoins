@@ -1,0 +1,119 @@
+====================================================================================================
+⏰ MEMECOIN TIMING PATTERN ANALYSIS REPORT
+====================================================================================================
+Generated: 2025-08-20 20:28:57
+Total Tokens Analyzed: 26
+
+⏰ PATTERN TIMING ANALYSIS
+-------------------------
+When different patterns typically occur
+
+Pattern: moon_shot
+Emoji: 🚀 Moon Shot
+Total Tokens: 3
+Avg Performance: +393.1%
+Success Rate: 100.0%
+Timing Distribution: {'instant_boom': 3}
+Recommendation: 🚀 Instant entry required - These patterns happen fast
+
+Pattern: moderate_rise
+Emoji: 📊 Moderate Rise
+Total Tokens: 4
+Avg Performance: +37.9%
+Success Rate: 100.0%
+Timing Distribution: {'instant_boom': 4}
+Recommendation: ⚖️ Standard timing - Monitor closely
+
+Pattern: stable
+Emoji: ⚖️ Stable
+Total Tokens: 8
+Avg Performance: +1.1%
+Success Rate: 25.0%
+Timing Distribution: {'instant_boom': 6, 'early_boom': 1, 'gradual_development': 1}
+Recommendation: ⚖️ Standard timing - Monitor closely
+
+Pattern: strong_rise
+Emoji: 📈 Strong Rise
+Total Tokens: 1
+Avg Performance: +51.5%
+Success Rate: 100.0%
+Timing Distribution: {'instant_boom': 1}
+Recommendation: 🚀 Instant entry required - These patterns happen fast
+
+Pattern: significant_drop
+Emoji: 💸 Significant Drop
+Total Tokens: 4
+Avg Performance: -67.2%
+Success Rate: 0.0%
+Timing Distribution: {'gradual_development': 3, 'instant_boom': 1}
+Recommendation: ⚰️ Instant death - Avoid completely
+
+Pattern: died
+Emoji: ⚰️ Died
+Total Tokens: 5
+Avg Performance: -87.8%
+Success Rate: 0.0%
+Timing Distribution: {'gradual_development': 3, 'instant_boom': 2}
+Recommendation: ⚰️ Instant death - Avoid completely
+
+Pattern: moderate_drop
+Emoji: 📉 Moderate Drop
+Total Tokens: 1
+Avg Performance: -25.2%
+Success Rate: 0.0%
+Timing Distribution: {'instant_boom': 1}
+Recommendation: ⚖️ Standard timing - Monitor closely
+
+💱 TRANSACTION TIMING ANALYSIS
+-----------------------------
+How transaction patterns relate to timing
+
+Timing Category: instant_boom
+Total Tokens: 18
+Avg Performance: +63.4%
+Success Rate: 55.6%
+Moon Shot Rate: 16.7%
+Pattern Distribution: {'stable': 6, 'moderate_rise': 4, 'moon_shot': 3, 'died': 2, 'strong_rise': 1, 'significant_drop': 1, 'moderate_drop': 1}
+Entry Timing: Immediate entry required
+
+Timing Category: gradual_development
+Total Tokens: 7
+Avg Performance: -68.8%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Pattern Distribution: {'significant_drop': 3, 'died': 3, 'stable': 1}
+Entry Timing: Entry within 6-24 hours
+
+Timing Category: early_boom
+Total Tokens: 1
+Avg Performance: +0.0%
+Success Rate: 0.0%
+Moon Shot Rate: 0.0%
+Pattern Distribution: {'stable': 1}
+Entry Timing: Entry within 1-6 hours
+
+📈 MOMENTUM TIMING ANALYSIS
+--------------------------
+How momentum changes over time
+
+Momentum Timing: stable
+Total Tokens: 22
+Avg Performance: +41.5%
+Success Rate: 45.5%
+Pattern Distribution: {'stable': 7, 'moderate_rise': 4, 'moon_shot': 3, 'significant_drop': 3, 'died': 3, 'strong_rise': 1, 'moderate_drop': 1}
+
+Momentum Timing: accelerating
+Total Tokens: 1
+Avg Performance: +0.0%
+Success Rate: 0.0%
+Pattern Distribution: {'stable': 1}
+
+Momentum Timing: decelerating
+Total Tokens: 3
+Avg Performance: -84.6%
+Success Rate: 0.0%
+Pattern Distribution: {'died': 2, 'significant_drop': 1}
+
+🎯 OPTIMAL TIMING RECOMMENDATIONS
+--------------------------------
+Best times to enter and exit based on analysis

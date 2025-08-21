@@ -1,0 +1,91 @@
+====================================================================================================
+💰 MEMECOIN EXIT RETURNS ANALYSIS REPORT
+====================================================================================================
+Generated: 2025-08-20 20:57:52
+Total Tokens Analyzed: 26
+
+💰 EXIT VS HOLD ANALYSIS
+-----------------------
+Comparison of returns when following exit rules vs holding to the end
+
+Exit At Ratio:
+  Description: Exit at Buy/Sell Ratio Warning
+  Avg Return: +27.8%
+  Median Return: +0.0%
+  Return Range: -93.7% to +619.8%
+  Improvement Vs Hold: +2.5%
+
+Exit At Percentage:
+  Description: Exit at Buy Percentage Warning
+  Avg Return: +27.6%
+  Median Return: +0.0%
+  Return Range: -93.7% to +619.8%
+  Improvement Vs Hold: +2.3%
+
+Exit At Momentum:
+  Description: Exit at Momentum Warning
+  Avg Return: +36.8%
+  Median Return: +0.0%
+  Return Range: -93.7% to +619.8%
+  Improvement Vs Hold: +11.5%
+
+Exit At Risk:
+  Description: Exit at Risk Score Warning
+  Avg Return: -10.6%
+  Median Return: -35.0%
+  Return Range: -93.7% to +619.8%
+  Improvement Vs Hold: -35.9%
+
+Exit At Fdv:
+  Description: Exit at FDV Change Warning
+  Avg Return: +42.2%
+  Median Return: +0.0%
+  Return Range: -30.0% to +619.8%
+  Improvement Vs Hold: +16.8%
+
+🚫 POINT OF NO RETURN LOSS ANALYSIS
+----------------------------------
+Average losses when tokens hit the point of no return
+
+Point Of No Return Stats:
+  Total Tokens: 18
+  Percentage Of Total: 69.2%
+  Avg Loss At Point Of No Return: 68.4%
+  Median Loss At Point Of No Return: 60.0%
+  Min Loss At Point Of No Return: 57.7%
+  Max Loss At Point Of No Return: 93.7%
+
+Fdv Drop Trigger:
+  Trigger: Fdv Drop
+  Tokens Affected: 9
+  Avg Loss: 76.9%
+
+Risk Score Trigger:
+  Trigger: Risk Score
+  Tokens Affected: 11
+  Avg Loss: 59.6%
+
+Buy Sell Ratio Trigger:
+  Trigger: Buy Sell Ratio
+  Tokens Affected: 1
+  Avg Loss: 64.9%
+
+🎯 EXIT RULE EFFECTIVENESS
+-------------------------
+How effective each exit rule is at preventing losses
+
+📈 RETURN IMPROVEMENT ANALYSIS
+-----------------------------
+Overall improvement in returns when following exit rules
+
+Portfolio Improvement:
+  Hold Strategy: +25.3%
+  Best Exit Strategy: +45.4%
+  Conservative Exit Strategy: +24.8%
+  Best Exit Improvement: +20.1%
+  Conservative Exit Improvement: -0.6%
+
+Risk Adjusted Returns:
+  Hold Sharpe: 0.16
+  Best Exit Sharpe: 0.31
+  Conservative Exit Sharpe: 0.17

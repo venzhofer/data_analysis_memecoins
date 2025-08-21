@@ -1,0 +1,22 @@
+================================================================================
+⏰ TIMING PATTERN ANALYSIS SUMMARY
+================================================================================
+Generated: 2025-08-20 20:28:57
+
+🎯 BEST ENTRY TIMING:
+   Category: instant_boom
+   Performance: +140.4%
+   Tokens: 10
+
+⏰ PATTERN TIMING INSIGHTS:
+   🚀 Moon Shot Moon Shot
+      Success Rate: 100.0%
+      Timing: {'instant_boom': 3}
+
+   📊 Moderate Rise Moderate Rise
+      Success Rate: 100.0%
+      Timing: {'instant_boom': 4}
+
+   ⚖️ Stable Stable
+      Success Rate: 25.0%
+      Timing: {'instant_boom': 6, 'early_boom': 1, 'gradual_development': 1}

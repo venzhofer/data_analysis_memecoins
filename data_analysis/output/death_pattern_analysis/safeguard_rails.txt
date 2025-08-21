@@ -1,0 +1,27 @@
+================================================================================
+🛡️ TRADING SAFEGUARD RAILS
+================================================================================
+Generated: 2025-08-20 20:39:11
+
+📋 Entry Safeguards:
+----------------
+• Buy Sell Ratio Minimum: Must be >= 0.8
+• Buy Percentage Minimum: Must be >= 45%
+• Momentum Change Minimum: Must be >= -0.2
+• Risk Score Maximum: Must be <= 6.0
+• Fdv Change Minimum: Must be >= -20%
+
+📋 Exit Safeguards:
+---------------
+• Buy Sell Ratio Exit: Exit if drops below 0.6
+• Buy Percentage Exit: Exit if drops below 40%
+• Momentum Change Exit: Exit if becomes negative
+• Risk Score Exit: Exit if exceeds 7.0
+• Fdv Change Exit: Exit if drops below -30%
+
+📋 Monitoring Safeguards:
+---------------------
+• Check Frequency: Every 15-30 minutes
+• Key Metrics: Buy/sell ratio, momentum, buy pressure
+• Alert Triggers: Any metric hits warning threshold
+• Action Timeframe: Within 5 minutes of warning

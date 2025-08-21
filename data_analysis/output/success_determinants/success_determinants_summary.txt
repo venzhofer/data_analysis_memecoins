@@ -1,0 +1,22 @@
+================================================================================
+🎯 SUCCESS DETERMINANTS ANALYSIS SUMMARY
+================================================================================
+Generated: 2025-08-20 21:47:40
+
+🎯 KEY FINDINGS:
+• Total Tokens: 26
+• Successful Tokens: 10 (38.5%)
+• High Success Tokens: 8 (30.8%)
+• Failed Tokens: 16 (61.5%)
+
+🔍 TOP SUCCESS INDICATORS:
+• #1: Total Transactions (Importance: 0.239)
+• #2: Buy Sell Ratio (Importance: 0.238)
+• #3: Buy Percentage (Importance: 0.198)
+
+💡 ACTIONABLE INSIGHTS:
+• Entry Criteria: Follow the established thresholds
+• Warning Signs: Monitor for declining metrics
+• Success Patterns: Focus on proven patterns
+
+📁 Check the 'output/success_determinants' folder for detailed reports

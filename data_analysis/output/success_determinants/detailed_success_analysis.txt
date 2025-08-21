@@ -1,0 +1,80 @@
+====================================================================================================
+🎯 MEMECOIN SUCCESS DETERMINANTS ANALYSIS REPORT
+====================================================================================================
+Generated: 2025-08-20 21:47:40
+Total Tokens Analyzed: 26
+
+📊 SUCCESS DISTRIBUTION ANALYSIS
+-------------------------------
+Distribution of tokens across success categories
+
+Success Distribution:
+  Total Tokens: 26
+  Successful Tokens: 10
+  Successful Percentage: 38.5%
+  High Success Tokens: 8
+  High Success Percentage: 30.8%
+  Failure Tokens: 16
+  Failure Percentage: 61.5%
+
+Detailed Breakdown:
+  Complete Failure: {'count': 9, 'percentage': '34.6%', 'avg_performance': '-78.6%'}
+  Moderate Failure: {'count': 6, 'percentage': '23.1%', 'avg_performance': '-2.1%'}
+  High Success: {'count': 4, 'percentage': '15.4%', 'avg_performance': '+307.7%'}
+  Moderate Success: {'count': 4, 'percentage': '15.4%', 'avg_performance': '+37.9%'}
+  Neutral: {'count': 2, 'percentage': '7.7%', 'avg_performance': '+10.8%'}
+  High Failure: {'count': 1, 'percentage': '3.8%', 'avg_performance': '-25.2%'}
+
+🔍 FEATURE IMPORTANCE ANALYSIS
+-----------------------------
+Which metrics are most predictive of token success
+
+Feature Importance: [{'feature': 'total_transactions', 'importance': 0.23941371032331896}, {'feature': 'buy_sell_ratio', 'importance': 0.23849208365322513}, {'feature': 'buy_percentage', 'importance': 0.19784600523598564}, {'feature': 'risk_score', 'importance': 0.09207679563790387}, {'feature': 'buy_pressure_change', 'importance': 0.08155367180107534}, {'feature': 'momentum_change', 'importance': 0.0765730552854181}, {'feature': 'momentum_score', 'importance': 0.07404467806307294}]
+
+Correlations:
+  Risk Score: 0.331
+  Buy Sell Ratio: 0.287
+  Buy Percentage: 0.347
+  Momentum Change: 0.386
+  Buy Pressure Change: 0.358
+  Total Transactions: -0.064
+  Momentum Score: -0.431
+
+⚖️ SUCCESS VS FAILURE CHARACTERISTICS
+-------------------------------------
+Key differences between successful and failed tokens
+
+Metric Comparison:
+  Risk Score: {'successful_avg': '7.60', 'failed_avg': '4.31', 'difference': '+3.29', 'success_advantage': True}
+  Buy Sell Ratio: {'successful_avg': '2.22', 'failed_avg': '1.34', 'difference': '+0.88', 'success_advantage': True}
+  Buy Percentage: {'successful_avg': '62.39', 'failed_avg': '52.84', 'difference': '+9.54', 'success_advantage': True}
+  Momentum Change: {'successful_avg': '0.00', 'failed_avg': '-0.15', 'difference': '+0.15', 'success_advantage': True}
+  Buy Pressure Change: {'successful_avg': '0.06', 'failed_avg': '-6.16', 'difference': '+6.23', 'success_advantage': True}
+
+Pattern Analysis:
+  Successful Patterns: {'moderate_rise': 4, 'moon_shot': 3, 'stable': 2, 'strong_rise': 1}
+  Failed Patterns: {'stable': 6, 'died': 5, 'significant_drop': 4, 'moderate_drop': 1}
+  Most Successful Pattern: moderate_rise
+  Most Failed Pattern: stable
+
+🔮 PREDICTIVE POWER ANALYSIS
+---------------------------
+How well different indicators predict success
+
+Threshold Analysis:
+  Risk Score 6: {'threshold': 6, 'above_threshold_success_rate': '63.6%', 'below_threshold_success_rate': '20.0%', 'predictive_power': '43.6%', 'direction': 'above_better'}
+  Risk Score 8: {'threshold': 8, 'above_threshold_success_rate': '63.6%', 'below_threshold_success_rate': '20.0%', 'predictive_power': '43.6%', 'direction': 'above_better'}
+  Buy Sell Ratio 0.6: {'threshold': 0.6, 'above_threshold_success_rate': '40.0%', 'below_threshold_success_rate': '0.0%', 'predictive_power': '40.0%', 'direction': 'above_better'}
+  Buy Sell Ratio 0.8: {'threshold': 0.8, 'above_threshold_success_rate': '41.7%', 'below_threshold_success_rate': '0.0%', 'predictive_power': '41.7%', 'direction': 'above_better'}
+  Buy Percentage 40: {'threshold': 40, 'above_threshold_success_rate': '40.0%', 'below_threshold_success_rate': '0.0%', 'predictive_power': '40.0%', 'direction': 'above_better'}
+  Buy Percentage 45: {'threshold': 45, 'above_threshold_success_rate': '41.7%', 'below_threshold_success_rate': '0.0%', 'predictive_power': '41.7%', 'direction': 'above_better'}
+  Momentum Positive: {'threshold': 0, 'above_threshold_success_rate': '50.0%', 'below_threshold_success_rate': '0.0%', 'predictive_power': '50.0%', 'direction': 'above_better'}
+
+🎯 KEY SUCCESS INDICATORS
+------------------------
+The most reliable predictors of token success
+
+Actionable Insights:
+  Entry Criteria: {'risk_score_max': 'Keep below 6.0 for best success rate', 'buy_sell_ratio_min': 'Keep above 0.8 for best success rate', 'buy_percentage_min': 'Keep above 45% for best success rate', 'momentum_requirement': 'Must be positive for best success rate'}
+  Warning Signs: {'risk_score_warning': 'Above 6.0 indicates declining success probability', 'buy_sell_ratio_warning': 'Below 0.8 indicates selling pressure', 'buy_percentage_warning': 'Below 40% indicates heavy selling', 'momentum_warning': 'Negative momentum indicates declining success'}
+  Success Patterns: {'best_pattern': 'moon_shot has highest success rate', 'timing': 'instant_boom tokens have highest success rate', 'risk_profile': 'Low risk tokens (score < 4) have highest success rate'}

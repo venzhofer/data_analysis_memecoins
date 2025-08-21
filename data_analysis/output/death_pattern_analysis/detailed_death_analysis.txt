@@ -1,0 +1,64 @@
+====================================================================================================
+⚰️ MEMECOIN DEATH PATTERN ANALYSIS REPORT
+====================================================================================================
+Generated: 2025-08-20 20:39:11
+Total Tokens Analyzed: 26
+
+⚰️ DEATH PATTERN ANALYSIS
+-------------------------
+Detailed analysis of how tokens die and enter different death categories
+
+Pattern: died
+Emoji: ⚰️ Died (>80% loss)
+Total Tokens: 5
+Avg Performance: -87.8%
+Performance Range: -93.7% to -83.0%
+Avg Risk Score: 6.9
+Risk Distribution: {'high': 4, 'critical': 1}
+Avg Buy Sell Ratio: 0.91
+Avg Buy Percentage: 45.9%
+Avg Momentum Change: -0.24
+Avg Pressure Change: -8.7%
+Death Characteristics: Gradual death - Sustained negative momentum
+
+Pattern: significant_drop
+Emoji: 💸 Significant Drop (-50% to -80%)
+Total Tokens: 4
+Avg Performance: -67.2%
+Performance Range: -78.7% to -55.3%
+Avg Risk Score: 6.2
+Risk Distribution: {'high': 2, 'medium': 1, 'critical': 1}
+Avg Buy Sell Ratio: 1.26
+Avg Buy Percentage: 55.7%
+Avg Momentum Change: -0.37
+Avg Pressure Change: -15.2%
+Death Characteristics: Moderate selling - Some recovery possible
+
+Pattern: moderate_drop
+Emoji: 📉 Moderate Drop (-20% to -50%)
+Total Tokens: 1
+Avg Performance: -25.2%
+Performance Range: -25.2% to -25.2%
+Avg Risk Score: 4.5
+Risk Distribution: {'medium': 1}
+Avg Buy Sell Ratio: 1.30
+Avg Buy Percentage: 56.5%
+Avg Momentum Change: +0.00
+Avg Pressure Change: +0.0%
+Death Characteristics: Light selling - Recovery likely with intervention
+
+🚫 POINT OF NO RETURN ANALYSIS
+-----------------------------
+Conditions that indicate a token has passed the point of no return
+
+⚠️ WARNING SIGNS ANALYSIS
+-------------------------
+Early indicators that suggest a token is heading towards death
+
+🛡️ TRADING SAFEGUARD RAILS
+--------------------------
+Risk management rules to prevent entering death spiral tokens
+
+📊 RISK ASSESSMENT FRAMEWORK
+---------------------------
+Systematic approach to assessing token death risk
