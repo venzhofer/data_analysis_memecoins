@@ -1,0 +1,55 @@
+ALL TOKENS PERFORMANCE SUMMARY
+==================================================
+
+Total Tokens Analyzed: 26
+Analysis Date: 2025-08-21 11:10:33
+
+PERFORMANCE PATTERNS:
+------------------------------
+Stable: 8 (30.8%)
+Died: 5 (19.2%)
+Moderate Rise: 4 (15.4%)
+Significant Drop: 4 (15.4%)
+Moon Shot: 3 (11.5%)
+Strong Rise: 1 (3.8%)
+Moderate Drop: 1 (3.8%)
+
+PERFORMANCE STATISTICS:
+------------------------------
+Average FDV Change: 25.34%
+Median FDV Change: 0.00%
+Best Performer: deadly weapon (619.77%)
+Worst Performer: catpennies (-93.71%)
+Standard Deviation: 157.26%
+
+RISK ANALYSIS:
+------------------------------
+Low: 14 (53.8%)
+High: 11 (42.3%)
+Medium: 1 (3.8%)
+
+TOP 10 PERFORMERS:
+------------------------------
+1. deadly weapon: 619.77% (moon_shot)
+2. Fork Chain: 396.60% (moon_shot)
+3. Goonpocalypse: 162.94% (moon_shot)
+4. SMART INU: 51.50% (strong_rise)
+5. a retarded token: 49.21% (moderate_rise)
+6. LIF3z16: 41.57% (moderate_rise)
+7. Albert: 36.28% (moderate_rise)
+8. #FREESCHLEP: 24.48% (moderate_rise)
+9. Gake: 15.91% (stable)
+10. Superman Kiss: 5.63% (stable)
+
+BOTTOM 10 PERFORMERS:
+------------------------------
+1. a big runner: -25.20% (moderate_drop)
+2. Chin: -55.32% (significant_drop)
+3. BonkPump: -56.34% (significant_drop)
+4. Anal Intelligence: -78.30% (significant_drop)
+5. lifewithada: -78.75% (significant_drop)
+6. Cabal: -83.03% (died)
+7. ract: -84.72% (died)
+8. Polarys: -84.77% (died)
+9. This will bait the retail: -92.56% (died)
+10. catpennies: -93.71% (died)

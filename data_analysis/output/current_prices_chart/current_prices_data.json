@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "total_tokens": 16,
+    "analysis_date": "2025-08-21T11:47:49.757327",
+    "data_source": "webhook_snapshots"
+  },
+  "tokens": {
+    "9pag2RpRugnhiJMdzwRSGP2xTaLr1szCTh6UsVm5sCM9": {
+      "name": "deadly weapon",
+      "current_price": 0.0002636,
+      "current_fdv": 263609,
+      "price_change_pct": 531.7468305893067,
+      "volume_24h": 775483.05,
+      "buy_sell_ratio": 0.9676356008390771,
+      "rugcheck_score": 1
+    },
+    "3S6zesTsL5BMTh3oDFoomiGaMdMnfPfgp11PQCkfgUUX": {
+      "name": "BonkPump",
+      "current_price": 0.0001314,
+      "current_fdv": 131480,
+      "price_change_pct": 116.6072951584118,
+      "volume_24h": 275673.8,
+      "buy_sell_ratio": 1.3312802463704356,
+      "rugcheck_score": 16
+    },
+    "wUyvUbYmg6GKwDy4vyfdxUfozcSUzp7TpUQBLrtNK9g": {
+      "name": "a big runner",
+      "current_price": 0.0001441,
+      "current_fdv": 144124,
+      "price_change_pct": 106.7909396172006,
+      "volume_24h": 347912.9,
+      "buy_sell_ratio": 1.3408190224570673,
+      "rugcheck_score": 16
+    },
+    "4we1zMGC8cBpd1pqevXuqUQEpwTQsjv8Kr6kbmuhCjeU": {
+      "name": "#FREESCHLEP",
+      "current_price": 0.0001295,
+      "current_fdv": 129553,
+      "price_change_pct": 100.08945513605613,
+      "volume_24h": 633765.32,
+      "buy_sell_ratio": 1.0279206465833945,
+      "rugcheck_score": 30
+    },
+    "FXZA1JMqvEVhsXguAkhD3emqmoQhx5TYbAbXqqDaNSod": {
+      "name": "SMART INU",
+      "current_price": 9.5e-05,
+      "current_fdv": 95010,
+      "price_change_pct": 51.497587375806965,
+      "volume_24h": 3399.24,
+      "buy_sell_ratio": 2.764705882352941,
+      "rugcheck_score": 16
+    },
+    "B8UM8JyUB9QqzkrHeD3qYqEsr7UmhpT2yfh2hHrXXMvk": {
+      "name": "WHO ATE ALL THE PUSSY",
+      "current_price": 8.313e-05,
+      "current_fdv": 83138,
+      "price_change_pct": 38.26601531174132,
+      "volume_24h": 176923.28,
+      "buy_sell_ratio": 1.105580693815988,
+      "rugcheck_score": 29
+    },
+    "C5YQT2gN6btqiTa5rt62xs79jAKjuzfkmpFNDXbrcB8g": {
+      "name": "Albert",
+      "current_price": 6.958e-05,
+      "current_fdv": 69588,
+      "price_change_pct": 36.28367874277778,
+      "volume_24h": 24750.85,
+      "buy_sell_ratio": 0.9760479041916168,
+      "rugcheck_score": 1
+    },
+    "DMeLPk4LsnFw13CLTC1rUVe4bzGBFfi7HaHRHQfZDJd4": {
+      "name": "lifewithada",
+      "current_price": 5.306e-05,
+      "current_fdv": 53063,
+      "price_change_pct": 19.86380663306784,
+      "volume_24h": 139917.31,
+      "buy_sell_ratio": 1.4697142857142858,
+      "rugcheck_score": 1
+    },
+    "CZkme421Y1pa2GPLkGFCXNxRCACcn9RM27kMMPKUWac5": {
+      "name": "Chin",
+      "current_price": 6.87e-05,
+      "current_fdv": 68704,
+      "price_change_pct": 6.036931423565561,
+      "volume_24h": 992544.92,
+      "buy_sell_ratio": 1.2247608328643782,
+      "rugcheck_score": 16
+    },
+    "J3zm9gQMM2DoFpPu5DktSSj7p5J8sAQtbsNjvkakdHJk": {
+      "name": "Superman Kiss",
+      "current_price": 6.299e-05,
+      "current_fdv": 62997,
+      "price_change_pct": 5.630100982155217,
+      "volume_24h": 11014.13,
+      "buy_sell_ratio": 1.0980392156862746,
+      "rugcheck_score": 16
+    },
+    "9Q7CEYmuZVMEmCQ7hdFnw61E5F3wG8Mt61UT81EUuFAR": {
+      "name": "LIF3z16",
+      "current_price": 7.07e-05,
+      "current_fdv": 70710,
+      "price_change_pct": 1.6742825319959076,
+      "volume_24h": 67016.54,
+      "buy_sell_ratio": 1.4425287356321839,
+      "rugcheck_score": 16
+    },
+    "52JQSf8oY5YNxArEwGfi93rqBXMP9FvxFLkFZpZXj3LA": {
+      "name": "catpennies",
+      "current_price": 5.818e-05,
+      "current_fdv": 58175,
+      "price_change_pct": -5.51791610932929,
+      "volume_24h": 57402.32,
+      "buy_sell_ratio": 1.0627062706270627,
+      "rugcheck_score": 1
+    },
+    "776C3ixZcKzXrSw2W6HevVXrWk9DXeo4NAMi333mzcDP": {
+      "name": "ract",
+      "current_price": 7.248e-06,
+      "current_fdv": 7248,
+      "price_change_pct": -79.72590248125528,
+      "volume_24h": 139914.01,
+      "buy_sell_ratio": 1.0447957839262187,
+      "rugcheck_score": 1
+    },
+    "CpWvVwJQ1LusxQB5r2VqzV5rwudVdj6dMGAkB1wagda5": {
+      "name": "Polarys",
+      "current_price": 4.084e-06,
+      "current_fdv": 4084,
+      "price_change_pct": -84.76934924769759,
+      "volume_24h": 23109.31,
+      "buy_sell_ratio": 0.3321554770318021,
+      "rugcheck_score": 1
+    },
+    "7NYAx4BAwyLBBxyLi1RQQc9bLJUEJdBkKG6K86vuhUFN": {
+      "name": "Goonpocalypse",
+      "current_price": 7.639e-06,
+      "current_fdv": 7639,
+      "price_change_pct": -86.28320451205181,
+      "volume_24h": 995393.09,
+      "buy_sell_ratio": 1.137519064565328,
+      "rugcheck_score": 16
+    },
+    "9Hdk7czk3khcSWcFsSsJZLX7Ydzv4P7LhTVKH3PqNiYW": {
+      "name": "Cabal",
+      "current_price": 6.02e-06,
+      "current_fdv": 5995,
+      "price_change_pct": -91.15747801538112,
+      "volume_24h": 366284.5,
+      "buy_sell_ratio": 1.260781476121563,
+      "rugcheck_score": 1
+    }
+  }
+}

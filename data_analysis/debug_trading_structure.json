@@ -1,0 +1,32 @@
+{
+  "id": 1412,
+  "created_at": "2025-08-14T17:59:10.668599+00:00",
+  "fdv": 63366,
+  "market_cap": 63366,
+  "price": 6.336e-05,
+  "transactions": {
+    "h1": {
+      "buys": 248,
+      "sells": 212
+    },
+    "h6": {
+      "buys": 248,
+      "sells": 212
+    },
+    "m5": {
+      "buys": 248,
+      "sells": 212
+    },
+    "h24": {
+      "buys": 248,
+      "sells": 212
+    }
+  },
+  "token": "9pag2RpRugnhiJMdzwRSGP2xTaLr1szCTh6UsVm5sCM9",
+  "volume": {
+    "h1": 44639.1,
+    "h6": 44639.1,
+    "m5": 44639.1,
+    "h24": 44639.1
+  }
+}

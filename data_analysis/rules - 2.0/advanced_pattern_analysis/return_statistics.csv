@@ -1,0 +1,8 @@
+pattern,mean,std,min,max,count
+bounce_off_support,171.664,915.666,-99.625,13489.828,14779
+breakdown_below_bb,-63.142,8.135,-68.893,-57.39,2
+breakout_above_bb,173.353,763.201,-99.674,9275.78,8104
+death_cross,287.08,1103.034,-99.031,10565.108,418
+golden_cross,325.186,1177.243,-99.625,7994.241,690
+macd_bearish_crossover,162.942,919.023,-99.676,9610.892,2977
+macd_bullish_crossover,126.715,826.599,-99.498,10979.414,6435

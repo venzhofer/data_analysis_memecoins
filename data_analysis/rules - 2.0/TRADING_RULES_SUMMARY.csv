@@ -1,0 +1,9 @@
+Pattern,Signal Type,Success Rate,Average Return,Entry Conditions,Stop Loss,Target,Risk Level,Position Size
+Golden Cross,Bullish,25.4%,325.19%,Price > SMA5 > SMA20 AND RSI 30-70,Below SMA20,325%,Medium,5-10%
+Death Cross,Bearish,74.6%,287.08%,Price < SMA5 < SMA20 AND RSI > 30,Above SMA20,287%,Low,10-15%
+Breakout Above BB,Bullish,18.9%,173.35%,Price > Upper BB AND RSI > 60,Below SMA20,173%,High,2-5%
+Bounce Off Support,Bullish,17.2%,171.66%,Price within 5% of support AND RSI < 40,Below support level,172%,High,2-5%
+MACD Bearish Crossover,Bearish,83.4%,162.94%,MACD < Signal AND histogram decreasing,Above MACD signal,163%,Low,10-15%
+Breakdown Below BB,Bearish,100.0%,-63.14%,Price < Lower BB AND RSI < 40,Above lower BB,-63%,Very Low,15%
+Rejection At Resistance,Bearish,N/A,N/A,Price near resistance AND RSI > 70,Below resistance,N/A,Medium,5-10%
+MACD Bullish Crossover,Bullish,14.2%,126.72%,MACD > Signal AND histogram increasing,Below MACD signal,127%,High,2-5%

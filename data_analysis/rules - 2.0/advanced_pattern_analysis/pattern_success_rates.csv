@@ -1,0 +1,8 @@
+pattern,mean,count,success_rate
+bounce_off_support,0.172,14779,17.2
+breakdown_below_bb,1.0,2,100.0
+breakout_above_bb,0.189,8104,18.9
+death_cross,0.746,418,74.6
+golden_cross,0.254,690,25.4
+macd_bearish_crossover,0.834,2977,83.39999999999999
+macd_bullish_crossover,0.142,6435,14.2

@@ -1,0 +1,9 @@
+{
+  "total_patterns_analyzed": 33405,
+  "overall_success_rate": 23.84672953150726,
+  "average_return": 167.23871413616456,
+  "best_pattern": "breakdown_below_bb",
+  "best_token": "Fork Chain",
+  "best_hour": "5",
+  "analysis_timestamp": "2025-08-21T15:23:38.155647"
+}
